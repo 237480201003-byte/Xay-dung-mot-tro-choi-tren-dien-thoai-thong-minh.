@@ -1,14 +1,14 @@
-# 🎮 Xây Dựng Trò Chơi Trên Điện Thoại
+#  Xây Dựng Trò Chơi Trên Điện Thoại
 
 Dự án xây dựng một trò chơi di động (mobile game) hoàn chỉnh chạy trên nền tảng **Android**, từ khâu lên ý tưởng, thiết kế, lập trình, kiểm thử cho đến đóng gói sản phẩm (APK).
 
-## 📖 Giới thiệu
+##  Giới thiệu
 
 Trong bối cảnh thị trường ứng dụng di động ngày càng phát triển, game di động là một trong những lĩnh vực thu hút đông đảo người dùng và có tốc độ tăng trưởng nhanh. Dự án là cơ hội để nhóm sinh viên vận dụng kiến thức đã học về lập trình, thiết kế giao diện, làm việc nhóm và quản lý dự án vào một sản phẩm thực tế.
 
 Nhóm áp dụng quy trình làm việc tương tự các dự án phần mềm thực tế: **lập kế hoạch → phân công → phát triển → kiểm thử → nghiệm thu**.
 
-## 🎯 Mục tiêu
+##  Mục tiêu
 
 **Mục tiêu chung:** Xây dựng thành công một trò chơi di động hoàn chỉnh, có thể cài đặt và chơi được trên thiết bị Android, đảm bảo tính giải trí, giao diện thân thiện và hoạt động ổn định.
 
@@ -20,7 +20,7 @@ Nhóm áp dụng quy trình làm việc tương tự các dự án phần mềm 
 - Kiểm thử phần mềm trước khi phát hành
 - Rèn luyện kỹ năng làm việc nhóm, quản lý tiến độ và sử dụng công cụ quản lý dự án chuyên nghiệp
 
-## 🕹️ Gameplay (Game Design Document tóm tắt)
+##  Gameplay (Game Design Document tóm tắt)
 
 Nhân vật tự động di chuyển; người chơi **chạm màn hình để nhảy/né tránh chướng ngại vật**. Điểm số tăng theo thời gian sống sót hoặc số chướng ngại vật vượt qua. **Độ khó tăng dần** theo thời gian chơi.
 
@@ -31,7 +31,7 @@ Các màn hình chính:
 - **Game Over** – hiển thị điểm số và điểm cao nhất
 - **Settings** – âm lượng, hướng dẫn chơi
 
-## 🛠️ Công nghệ và công cụ sử dụng
+##  Công nghệ và công cụ sử dụng
 
 | Nhóm | Công cụ |
 |---|---|
@@ -40,7 +40,7 @@ Các màn hình chính:
 | Quản lý dự án & cộng tác | Trello / Jira, Git & GitHub, Google Drive / Docs, Discord / Messenger |
 | Kiểm thử & triển khai | Unity Test Framework, thiết bị/Emulator Android, Android Studio, Google Play Console (tham khảo) |
 
-## 📁 Cấu trúc dự án
+##  Cấu trúc dự án
 
 ```
 ├── Scripts/
@@ -55,7 +55,7 @@ Các màn hình chính:
 
 > Các script trong repo là khung sườn (scaffold) cho một game Unity 2D dạng "endless runner". Import thư mục `Scripts/` vào project Unity, gắn các component tương ứng vào GameObject trong Scene, và kết nối tham chiếu qua Inspector.
 
-## 👥 Nhóm thực hiện & Phân chia công việc
+##  Nhóm thực hiện & Phân chia công việc
 
 | Thành viên | Vai trò | Công việc phụ trách |
 |---|---|---|
@@ -65,7 +65,7 @@ Các màn hình chính:
 | Hà Duy Quang | Đồ họa & Thiết kế màn chơi | Nhân vật, nền, vật cản; thiết kế level, cân bằng độ khó |
 | Đỗ Việt Anh | Kiểm thử phần mềm (Tester/QA) & Tài liệu | Test case, kiểm thử đa thiết bị, bug report, tài liệu hướng dẫn |
 
-## 📅 Kế hoạch thực hiện (Timeline)
+##  Kế hoạch thực hiện (Timeline)
 
 | Thời gian | Giai đoạn | Nội dung chính |
 |---|---|---|
@@ -76,7 +76,7 @@ Các màn hình chính:
 | Tuần 11 | Hoàn thiện & đóng gói | Tối ưu hiệu năng, đóng gói APK, chuẩn bị demo |
 | Tuần 12 | Báo cáo & nghiệm thu | Tổng hợp tài liệu, thuyết trình, báo cáo tổng kết |
 
-## ✅ Đầu ra mỗi thành viên cần đạt
+##  Đầu ra mỗi thành viên cần đạt
 
 - **Quản lý dự án:** GDD hoàn chỉnh, kế hoạch dự án, báo cáo tổng kết, biên bản họp nhóm hằng tuần
 - **Lập trình Gameplay:** Module gameplay ổn định, source code có chú thích rõ ràng, không lỗi crash
@@ -84,17 +84,17 @@ Các màn hình chính:
 - **Đồ họa & Level Design:** Bộ tài nguyên đồ họa đúng phong cách, tối thiểu 5 màn chơi độ khó tăng dần
 - **Kiểm thử & Tài liệu:** Bảng test case đầy đủ, bug list kèm mức độ ưu tiên, README hướng dẫn cài đặt & sử dụng
 
-## 🚀 Kết quả mong đợi
+##  Kết quả mong đợi
 
 Một bản build **APK hoàn chỉnh**, chạy ổn định trên thiết bị Android, cùng bộ tài liệu đầy đủ (Game Design Document, kế hoạch dự án, báo cáo kiểm thử, hướng dẫn sử dụng) làm nền tảng để nhóm tiếp tục phát triển, mở rộng game trong tương lai.
 
-## 📝 Quy trình quản lý mã nguồn
+##  Quy trình quản lý mã nguồn
 
 - Quản lý mã nguồn bằng **Git/GitHub** theo mô hình nhánh (feature branch)
 - Review code trước khi gộp (merge) vào nhánh `main`
 - Theo dõi công việc bằng bảng Kanban trên Trello: **Cần làm – Đang làm – Đã xong**
 
-## ▶️ Hướng dẫn chạy dự án (Unity)
+##  Hướng dẫn chạy dự án (Unity)
 
 1. Cài đặt **Unity Hub** và **Unity Editor** (khuyến nghị phiên bản LTS mới nhất hỗ trợ Android build)
 2. Tạo mới một Unity project 2D, sau đó copy thư mục `Scripts/` vào `Assets/Scripts/` của project
@@ -102,6 +102,6 @@ Một bản build **APK hoàn chỉnh**, chạy ổn định trên thiết bị 
 4. Kéo tham chiếu các UI Text/Button vào Inspector cho `UIManager` và `ScoreManager`
 5. Chuyển Platform sang **Android** (`File > Build Settings > Android`) và Build để tạo file APK
 
-## 📄 License
+##  License
 
 Dự án phục vụ mục đích học tập.
