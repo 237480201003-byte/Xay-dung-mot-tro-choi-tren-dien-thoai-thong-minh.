@@ -1,0 +1,5462 @@
+{
+  "common.ok": [
+    "OK",
+    "OK",
+    "OK",
+    "OK",
+    "OK"
+  ],
+  "common.cancel": [
+    "Cancel",
+    "Cancel",
+    "Never mind",
+    "Nope, back out",
+    "Abort the whole affair"
+  ],
+  "common.close": [
+    "Close",
+    "Close",
+    "Close it",
+    "Shut it",
+    "Draw the curtain"
+  ],
+  "common.save": [
+    "Save",
+    "Save",
+    "Save it",
+    "Lock it in",
+    "Commit it to the ages"
+  ],
+  "common.apply": [
+    "Apply",
+    "Apply",
+    "Apply it",
+    "Make it so",
+    "Let it be written"
+  ],
+  "common.reset": [
+    "Reset",
+    "Reset",
+    "Put it back",
+    "Back to how it was",
+    "Rewind time itself"
+  ],
+  "common.yes": [
+    "Yes",
+    "Yes",
+    "Yes please",
+    "Go on then",
+    "Yes, and hurry"
+  ],
+  "common.no": [
+    "No",
+    "No",
+    "No thanks",
+    "Rather not",
+    "Absolutely not, thank you"
+  ],
+  "common.search": [
+    "Search",
+    "Search",
+    "Search",
+    "Go find it",
+    "Summon what you seek"
+  ],
+  "common.clear": [
+    "Clear",
+    "Clear",
+    "Clear it",
+    "Wipe it",
+    "Erase every trace"
+  ],
+  "common.copy": [
+    "Copy",
+    "Copy",
+    "Copy it",
+    "Grab a copy",
+    "Duplicate it for posterity"
+  ],
+  "common.copied": [
+    "Copied",
+    "Copied",
+    "Copied to the clipboard",
+    "Got it — it is on your clipboard",
+    "Copied! It lives in your clipboard now"
+  ],
+  "common.none": [
+    "None",
+    "None",
+    "Nothing here",
+    "Nothing at all",
+    "A beautiful, echoing emptiness"
+  ],
+  "common.loading": [
+    "Loading",
+    "Loading",
+    "Loading…",
+    "One moment…",
+    "Fetching it from the back room…"
+  ],
+  "common.retry": [
+    "Retry",
+    "Try again",
+    "Try again",
+    "Give it another go",
+    "Once more, with feeling"
+  ],
+  "common.back": [
+    "Back",
+    "Back",
+    "Go back",
+    "Back you go",
+    "Retreat, gracefully"
+  ],
+  "common.more": [
+    "{count} more",
+    "{count} more",
+    "{count} more",
+    "{count} more waiting",
+    "{count} more, patiently queueing"
+  ],
+  "common.on": [
+    "On",
+    "On",
+    "On",
+    "Switched on",
+    "Gloriously on"
+  ],
+  "common.off": [
+    "Off",
+    "Off",
+    "Off",
+    "Switched off",
+    "Silent and dark"
+  ],
+  "common.default": [
+    "Default",
+    "Default",
+    "The default",
+    "As it comes",
+    "Exactly as the maker intended"
+  ],
+  "common.custom": [
+    "Custom",
+    "Custom",
+    "Your own",
+    "Your own version",
+    "Your own, and nobody else has it"
+  ],
+  "common.expand": [
+    "Expand",
+    "Expand",
+    "Open it up",
+    "Open it up",
+    "Unfurl it"
+  ],
+  "common.collapse": [
+    "Collapse",
+    "Collapse",
+    "Fold it away",
+    "Tuck it away",
+    "Fold it up and tuck it in"
+  ],
+  "common.enabled": [
+    "Enabled",
+    "Enabled",
+    "Turned on",
+    "On and working",
+    "Alive, awake and working"
+  ],
+  "common.disabled": [
+    "Disabled",
+    "Disabled",
+    "Turned off",
+    "Off for now",
+    "Fast asleep, for now"
+  ],
+  "common.count": [
+    "{count}",
+    "{count}",
+    "{count}",
+    "{count}",
+    "{count}"
+  ],
+  "common.error": [
+    "Error: {error}",
+    "Error: {error}",
+    "Something went wrong: {error}",
+    "That did not work: {error}",
+    "Disaster, and it says: {error}"
+  ],
+  "common.error.code": [
+    "Error {code}: {error}",
+    "Error {code}: {error}",
+    "Something went wrong — {code}: {error}",
+    "That failed, code {code}: {error}",
+    "Catastrophe number {code}, and it reads: {error}"
+  ],
+  "common.unsaved": [
+    "Unsaved changes",
+    "Unsaved changes",
+    "You have unsaved changes",
+    "There is work here you have not saved",
+    "Unsaved work, hanging by a thread"
+  ],
+  "common.dragHandle": [
+    "Drag handle",
+    "Drag handle",
+    "Grab here to move it",
+    "Grab here to move it",
+    "Grab here and drag it wherever you like"
+  ],
+  "app.name": [
+    "Sprout Hollow",
+    "Sprout Hollow",
+    "Sprout Hollow",
+    "Sprout Hollow",
+    "Sprout Hollow"
+  ],
+  "app.tagline": [
+    "A farm at the bottom of a wooded valley.",
+    "A small farm at the bottom of a wooded valley.",
+    "A quiet farm at the bottom of a wooded valley.",
+    "One farm, one valley, and nobody rushing you.",
+    "A hush of a valley, a rusty hoe, and a whole year to prove yourself."
+  ],
+  "app.window.label": [
+    "Sprout Hollow window",
+    "Sprout Hollow window",
+    "The Sprout Hollow window",
+    "The Sprout Hollow window",
+    "The Sprout Hollow window itself"
+  ],
+  "titlebar.label": [
+    "Title bar",
+    "Title bar",
+    "Title bar",
+    "The title bar",
+    "The title bar, keeper of the window"
+  ],
+  "titlebar.dragHint": [
+    "Drag to move the window",
+    "Drag to move the window",
+    "Drag here to move the window",
+    "Grab here and the window follows",
+    "Take hold and the whole window comes with you"
+  ],
+  "titlebar.minimise": [
+    "Minimise",
+    "Minimise",
+    "Minimise",
+    "Tuck it away",
+    "Vanish it to the taskbar"
+  ],
+  "titlebar.maximise": [
+    "Maximise",
+    "Maximise",
+    "Fill the screen",
+    "Take the whole screen",
+    "Seize the entire screen"
+  ],
+  "titlebar.restore": [
+    "Restore",
+    "Restore",
+    "Back to a window",
+    "Shrink back to a window",
+    "Return it to a modest little window"
+  ],
+  "titlebar.close": [
+    "Close",
+    "Close",
+    "Close the window",
+    "Close the window",
+    "Close the window and end the day"
+  ],
+  "titlebar.doubleClickHint": [
+    "Double-click to maximise",
+    "Double-click to maximise",
+    "Double-click to fill the screen",
+    "Double-click and it takes the screen",
+    "Double-click and watch it swallow the screen"
+  ],
+  "titlebar.documentTitle": [
+    "{tab} — {app}",
+    "{tab} — {app}",
+    "{tab} — {app}",
+    "{tab} — {app}",
+    "{tab} — {app}"
+  ],
+  "tabs.strip.label": [
+    "Tabs",
+    "Tabs",
+    "Your tabs",
+    "Your tabs",
+    "Your tabs, all lined up"
+  ],
+  "tabs.panel.label": [
+    "{title} panel",
+    "{title} panel",
+    "The {title} panel",
+    "The {title} panel",
+    "The {title} panel, in all its glory"
+  ],
+  "tabs.new": [
+    "New tab",
+    "New tab",
+    "Open a new tab",
+    "Open a fresh tab",
+    "Open a brand new tab, still warm"
+  ],
+  "tabs.close": [
+    "Close {title}",
+    "Close {title}",
+    "Close {title}",
+    "Close {title}",
+    "Close {title} and say goodbye"
+  ],
+  "tabs.closeOthers": [
+    "Close other tabs",
+    "Close the other tabs",
+    "Close every other tab",
+    "Close everything except this one",
+    "Close everything else and leave this one standing"
+  ],
+  "tabs.closeRight": [
+    "Close tabs to the right",
+    "Close the tabs to the right",
+    "Close everything to the right",
+    "Sweep away everything on the right",
+    "Sweep the entire right flank into the sea"
+  ],
+  "tabs.closeAll": [
+    "Close all tabs",
+    "Close all the tabs",
+    "Close every tab",
+    "Close the lot",
+    "Close every last one of them"
+  ],
+  "tabs.pin": [
+    "Pin {title}",
+    "Pin {title}",
+    "Pin {title} to the front",
+    "Pin {title} so it stays put",
+    "Nail {title} to the front so it never wanders"
+  ],
+  "tabs.unpin": [
+    "Unpin {title}",
+    "Unpin {title}",
+    "Let {title} go free",
+    "Let {title} roam again",
+    "Release {title} back into the wild"
+  ],
+  "tabs.pinned.badge": [
+    "Pinned",
+    "Pinned",
+    "Pinned",
+    "Pinned in place",
+    "Pinned, and not going anywhere"
+  ],
+  "tabs.duplicate": [
+    "Duplicate {title}",
+    "Duplicate {title}",
+    "Make a copy of {title}",
+    "Clone {title}",
+    "Conjure a second {title} out of thin air"
+  ],
+  "tabs.rename": [
+    "Rename {title}",
+    "Rename {title}",
+    "Give {title} a new name",
+    "Call {title} something else",
+    "Christen {title} anew"
+  ],
+  "tabs.moveLeft": [
+    "Move {title} left",
+    "Move {title} left",
+    "Shift {title} left",
+    "Nudge {title} to the left",
+    "Escort {title} one step to the left"
+  ],
+  "tabs.moveRight": [
+    "Move {title} right",
+    "Move {title} right",
+    "Shift {title} right",
+    "Nudge {title} to the right",
+    "Escort {title} one step to the right"
+  ],
+  "tabs.reorder.hint": [
+    "Reorder with {keys}.",
+    "Reorder with {keys}.",
+    "Drag them, or reorder with {keys}.",
+    "Drag them about, or use {keys} if you prefer the keyboard.",
+    "Drag them, or press {keys} and watch them shuffle like an obedient chorus line."
+  ],
+  "tabs.reordered": [
+    "{title} moved to position {position}",
+    "{title} moved to position {position}",
+    "{title} is now at position {position}",
+    "{title} has shuffled to position {position}",
+    "{title} has swept grandly into position {position}"
+  ],
+  "tabs.overflow": [
+    "{count} more tabs",
+    "{count} more tabs",
+    "{count} more tabs over here",
+    "{count} more tabs hiding here",
+    "{count} more tabs, crammed in and waiting"
+  ],
+  "tabs.overflow.label": [
+    "Tabs that do not fit",
+    "Tabs that do not fit",
+    "The tabs that did not fit",
+    "The tabs that could not squeeze in",
+    "The poor tabs that could not squeeze in"
+  ],
+  "tabs.scrollLeft": [
+    "Scroll tabs left",
+    "Scroll tabs left",
+    "Scroll the tabs left",
+    "Slide the tabs left",
+    "Send the tabs sliding leftward"
+  ],
+  "tabs.scrollRight": [
+    "Scroll tabs right",
+    "Scroll tabs right",
+    "Scroll the tabs right",
+    "Slide the tabs right",
+    "Send the tabs sliding rightward"
+  ],
+  "tabs.group.new": [
+    "New group",
+    "New group",
+    "Start a new group",
+    "Start a new group",
+    "Found a whole new group"
+  ],
+  "tabs.group.name.label": [
+    "Group name",
+    "Group name",
+    "Name of the group",
+    "What is this group called?",
+    "What shall we call this noble group?"
+  ],
+  "tabs.group.rename": [
+    "Rename group {group}",
+    "Rename group {group}",
+    "Give group {group} a new name",
+    "Call group {group} something else",
+    "Christen group {group} anew"
+  ],
+  "tabs.group.collapse": [
+    "Collapse group {group}",
+    "Collapse group {group}",
+    "Fold group {group} away",
+    "Tuck group {group} away",
+    "Fold group {group} up neatly and tuck it in"
+  ],
+  "tabs.group.expand": [
+    "Expand group {group}",
+    "Expand group {group}",
+    "Open group {group} up",
+    "Open group {group} back up",
+    "Unfurl group {group} in all its glory"
+  ],
+  "tabs.group.addTo": [
+    "Add {title} to group {group}",
+    "Add {title} to group {group}",
+    "Put {title} into group {group}",
+    "Pop {title} into group {group}",
+    "Usher {title} into the ranks of group {group}"
+  ],
+  "tabs.group.remove": [
+    "Remove {title} from group {group}",
+    "Remove {title} from group {group}",
+    "Take {title} out of group {group}",
+    "Pull {title} out of group {group}",
+    "Extract {title} from group {group}, gently"
+  ],
+  "tabs.group.count": [
+    "{group}: {count} tabs",
+    "{group}: {count} tabs",
+    "{group} holds {count} tabs",
+    "{group} is looking after {count} tabs",
+    "{group} presides over {count} loyal tabs"
+  ],
+  "tabs.group.label": [
+    "Tab group {group}",
+    "Tab group {group}",
+    "Tab group {group}",
+    "The {group} group",
+    "The noble tab group {group}"
+  ],
+  "tabs.unsaved.title": [
+    "Close {title}?",
+    "Close {title}?",
+    "Close {title} anyway?",
+    "Really close {title}?",
+    "Truly, madly, close {title}?"
+  ],
+  "tabs.unsaved.body": [
+    "{title} has unsaved work. Closing it discards the changes.",
+    "{title} has unsaved work. Closing it discards the changes.",
+    "{title} has work you have not saved. Close it and the changes go.",
+    "{title} has unsaved work, and closing it throws that work away.",
+    "{title} is clutching unsaved work. Close it and that work is gone forever, unmourned."
+  ],
+  "tabs.unsaved.discard": [
+    "Close without saving",
+    "Close without saving",
+    "Close and lose the changes",
+    "Close it, changes and all",
+    "Close it and let the changes perish"
+  ],
+  "tabs.unsaved.keep": [
+    "Keep it open",
+    "Keep it open",
+    "Leave it open",
+    "Leave it be",
+    "Leave it open and breathing"
+  ],
+  "tabs.closed": [
+    "Closed {title}",
+    "Closed {title}",
+    "Closed {title}",
+    "{title} is gone",
+    "{title} has left the building"
+  ],
+  "tabs.reopen": [
+    "Reopen {title}",
+    "Reopen {title}",
+    "Bring {title} back",
+    "Bring {title} back",
+    "Resurrect {title} from the void"
+  ],
+  "tabs.empty": [
+    "No tabs are open.",
+    "No tabs are open.",
+    "Nothing is open right now.",
+    "Not a single tab open.",
+    "Not one tab open. The silence is deafening."
+  ],
+  "search.tabs.strip.label": [
+    "Search this tab strip",
+    "Search this tab strip",
+    "Search the tabs on this strip",
+    "Hunt through the tabs on this strip",
+    "Interrogate every tab on this strip"
+  ],
+  "search.tabs.strip.placeholder": [
+    "Search tabs",
+    "Search tabs",
+    "Search tabs",
+    "Which tab are you after?",
+    "Name the tab and it shall appear"
+  ],
+  "search.tabs.group.label": [
+    "Search tabs in group {group}",
+    "Search tabs in group {group}",
+    "Search the tabs inside group {group}",
+    "Hunt through group {group}",
+    "Interrogate every tab inside group {group}"
+  ],
+  "search.tabs.group.placeholder": [
+    "Search in {group}",
+    "Search in {group}",
+    "Search inside {group}",
+    "What are you after in {group}?",
+    "Name it and {group} will hand it over"
+  ],
+  "search.tabs.groupNames.label": [
+    "Search group names",
+    "Search group names",
+    "Search the names of the groups",
+    "Hunt through the group names",
+    "Interrogate the group names themselves"
+  ],
+  "search.tabs.groupNames.placeholder": [
+    "Search groups",
+    "Search groups",
+    "Search groups",
+    "Which group?",
+    "Which group, out of all of them?"
+  ],
+  "search.tabs.all.label": [
+    "Search all tabs",
+    "Search all open tabs",
+    "Search every tab in the app",
+    "Hunt through every tab in the app",
+    "Interrogate every last tab this app owns"
+  ],
+  "search.tabs.all.placeholder": [
+    "Search all tabs",
+    "Search all tabs",
+    "Search everywhere",
+    "Search absolutely everywhere",
+    "Search every corner of every tab"
+  ],
+  "tabs.close.matching": [
+    "Close tabs containing text",
+    "Close tabs containing text",
+    "Close every tab that matches",
+    "Close every tab that matches",
+    "Close every tab that dares to match"
+  ],
+  "tabs.close.notMatching": [
+    "Close tabs not containing text",
+    "Close tabs not containing text",
+    "Close every tab that does not match",
+    "Close everything that does not match",
+    "Spare the matches and close all the rest"
+  ],
+  "tabs.close.preview": [
+    "This will close {count} of {total} tabs.",
+    "This will close {count} of {total} tabs.",
+    "That would close {count} of your {total} tabs.",
+    "Careful — that closes {count} of your {total} tabs.",
+    "Brace yourself: {count} of your {total} tabs are for the chop."
+  ],
+  "tabs.close.none": [
+    "Nothing matches, so nothing will close.",
+    "Nothing matches, so nothing will close.",
+    "Nothing matches — no tabs would close.",
+    "Nothing matches, so everybody survives.",
+    "Nothing matches. Every tab lives to see another day."
+  ],
+  "tabs.close.all": [
+    "That matches every tab. Refine the query or close them deliberately.",
+    "That matches every tab. Refine the query or close them deliberately.",
+    "That matches every single tab — narrow it down, or close them on purpose.",
+    "That matches everything. Narrow it down unless you truly meant all of them.",
+    "That matches every tab you own. Narrow it down, unless total annihilation was the plan."
+  ],
+  "tabs.close.emptyQuery": [
+    "Type something first.",
+    "Type something first.",
+    "Type something to match on first.",
+    "Give it something to match on first.",
+    "Give it something to work with — it cannot read minds."
+  ],
+  "tabs.close.invalid": [
+    "The query is not valid: {error}",
+    "The query is not valid: {error}",
+    "That query does not work: {error}",
+    "That query is broken: {error}",
+    "That query is a shambles: {error}"
+  ],
+  "tabs.close.pinnedExcluded": [
+    "Pinned tabs are left alone.",
+    "Pinned tabs are left alone.",
+    "Pinned tabs stay where they are.",
+    "Pinned tabs are safe from this.",
+    "Pinned tabs are untouchable. They have earned it."
+  ],
+  "tabs.close.includePinned": [
+    "Include pinned tabs",
+    "Include pinned tabs",
+    "Include the pinned tabs too",
+    "Take the pinned ones as well",
+    "Take the pinned ones too, no mercy"
+  ],
+  "tabs.close.confirm.title": [
+    "Close {count} tabs?",
+    "Close {count} tabs?",
+    "Close {count} tabs?",
+    "Really close {count} tabs?",
+    "Really send {count} tabs to their doom?"
+  ],
+  "tabs.close.confirm.body": [
+    "{count} tabs will close. {unsaved} of them have unsaved work.",
+    "{count} tabs will close. {unsaved} of them have unsaved work.",
+    "{count} tabs are about to close, and {unsaved} of them have work you have not saved.",
+    "{count} tabs are for the chop, and {unsaved} of them are still holding unsaved work.",
+    "{count} tabs go over the edge, and {unsaved} of them are still clutching unsaved work."
+  ],
+  "tabs.close.done": [
+    "Closed {count} tabs.",
+    "Closed {count} tabs.",
+    "Closed {count} tabs.",
+    "{count} tabs, gone.",
+    "{count} tabs, swept clean away."
+  ],
+  "settings.title": [
+    "Settings",
+    "Settings",
+    "Settings",
+    "Settings",
+    "Settings, where you bend the app to your will"
+  ],
+  "settings.desc": [
+    "Everything here is saved on this computer.",
+    "Everything here is saved on this computer.",
+    "Everything here stays on this computer.",
+    "Everything here stays on this computer — nothing is sent anywhere.",
+    "Everything here stays on this computer. Nothing is sent anywhere, to anyone, ever."
+  ],
+  "search.settings.label": [
+    "Search settings",
+    "Search settings",
+    "Search every setting",
+    "Hunt through every setting",
+    "Interrogate every setting in the place"
+  ],
+  "search.settings.placeholder": [
+    "Search settings",
+    "Search settings",
+    "What are you looking for?",
+    "What are you after?",
+    "Name it and it shall be found"
+  ],
+  "settings.search.count": [
+    "{count} settings match.",
+    "{count} settings match.",
+    "{count} settings match.",
+    "{count} settings turned up.",
+    "{count} settings answered the call."
+  ],
+  "settings.search.empty": [
+    "No setting matches {query}.",
+    "No setting matches {query}.",
+    "Nothing matches {query}.",
+    "Nothing here matches {query}.",
+    "Not one setting answers to {query}."
+  ],
+  "settings.section.language": [
+    "Language",
+    "Language",
+    "Language",
+    "Language",
+    "Language, and how funny it gets"
+  ],
+  "settings.section.language.desc": [
+    "Choose the language and how the app speaks.",
+    "Choose the language and how the app speaks to you.",
+    "Pick the language, and pick how much personality it has.",
+    "Pick the language, then decide how much cheek it is allowed.",
+    "Pick the language, then decide how theatrical it is allowed to be."
+  ],
+  "settings.section.appearance": [
+    "Appearance",
+    "Appearance",
+    "Appearance",
+    "Appearance",
+    "Appearance, down to the last pixel"
+  ],
+  "settings.section.appearance.desc": [
+    "Colours, sizes and spacing for the shell.",
+    "Colours, sizes and spacing for the shell around the game.",
+    "Colours, sizes and spacing — every part of the shell can be changed.",
+    "Colours, sizes and spacing. Every last part of the shell will do as it is told.",
+    "Colours, sizes and spacing. Every pixel of the shell is yours to boss about."
+  ],
+  "settings.section.motion": [
+    "Motion and accessibility",
+    "Motion and accessibility",
+    "Motion and accessibility",
+    "Motion and accessibility",
+    "Motion and accessibility, taken seriously"
+  ],
+  "settings.section.motion.desc": [
+    "Animation, focus and screen reader behaviour.",
+    "Animation, focus and screen reader behaviour.",
+    "How much things move, and how the app talks to a screen reader.",
+    "How much things move, and how politely the app talks to a screen reader.",
+    "How much things move, and how the app behaves for the people who need it to behave."
+  ],
+  "settings.section.scale": [
+    "Display scale",
+    "Display scale",
+    "Display scale",
+    "Display scale",
+    "Display scale, for eyes of every kind"
+  ],
+  "settings.section.scale.desc": [
+    "How large the shell is drawn.",
+    "How large the shell is drawn.",
+    "How large everything outside the game is drawn.",
+    "How large everything outside the game is drawn. Nothing will clip.",
+    "How large everything outside the game is drawn. Nothing clips, nothing overlaps, nothing escapes."
+  ],
+  "settings.section.audio": [
+    "Audio",
+    "Audio",
+    "Audio",
+    "Audio",
+    "Audio, synthesised on the spot"
+  ],
+  "settings.section.audio.desc": [
+    "Every sound is generated at runtime. No audio files.",
+    "Every sound is generated at runtime. There are no audio files.",
+    "Every sound is made up on the spot — there is not one audio file in here.",
+    "Every sound is made up on the spot. Not one audio file, not one download.",
+    "Every sound is conjured out of arithmetic on the spot. Not one audio file anywhere."
+  ],
+  "settings.section.game": [
+    "Game",
+    "Game",
+    "Game",
+    "Game",
+    "The farm itself"
+  ],
+  "settings.section.game.desc": [
+    "The farm, its save and its seed.",
+    "The farm, its save and its seed.",
+    "The farm itself — the save and the seed it grew from.",
+    "The farm itself: the save, and the seed the whole valley grew from.",
+    "The farm itself: one save, and the single number the whole valley grew out of."
+  ],
+  "settings.section.data": [
+    "Data",
+    "Data",
+    "Data",
+    "Data",
+    "Data, and how to take it with you"
+  ],
+  "settings.section.data.desc": [
+    "Export, import and reset. Everything stays on this computer.",
+    "Export, import and reset. Everything stays on this computer.",
+    "Export it, import it, or wipe it. It never leaves this computer.",
+    "Export it, import it, or wipe the lot. It never leaves this computer.",
+    "Export it, import it, or wipe the lot. Not one byte ever leaves this computer."
+  ],
+  "settings.section.about": [
+    "About",
+    "About",
+    "About",
+    "About",
+    "About, credits and confessions"
+  ],
+  "settings.section.about.desc": [
+    "Version, licence and credits.",
+    "Version, licence and credits.",
+    "Version, licence and who to thank.",
+    "Version, licence, and who to thank for all this.",
+    "Version, licence, and the list of people to thank for the whole valley."
+  ],
+  "settings.lang.mode.label": [
+    "Language",
+    "Language",
+    "Language",
+    "Which language?",
+    "Which tongue shall we speak?"
+  ],
+  "settings.lang.mode.desc": [
+    "English, Cantonese, or both at once.",
+    "English, Cantonese, or both at once.",
+    "English, Cantonese, or both side by side.",
+    "English, Cantonese, or both side by side if you cannot choose.",
+    "English, Cantonese, or both at once for the greedy and the bilingual."
+  ],
+  "settings.lang.option.en": [
+    "English",
+    "English",
+    "English",
+    "English",
+    "English"
+  ],
+  "settings.lang.option.en.desc": [
+    "English only.",
+    "English only.",
+    "English only.",
+    "English, and nothing but.",
+    "English, and not a character more."
+  ],
+  "settings.lang.option.yue": [
+    "Cantonese",
+    "Cantonese",
+    "Cantonese",
+    "Cantonese",
+    "Cantonese"
+  ],
+  "settings.lang.option.vi": [
+    "Vietnamese",
+    "Vietnamese",
+    "Vietnamese",
+    "Vietnamese",
+    "Vietnamese"
+  ],
+  "settings.lang.option.yue.desc": [
+    "Hong Kong Cantonese, in traditional characters.",
+    "Hong Kong Cantonese, in traditional characters.",
+    "Hong Kong Cantonese, written the way people actually text.",
+    "Hong Kong Cantonese, written the way people actually text — not textbook Chinese.",
+    "Hong Kong Cantonese, written the way people actually text, particles and all."
+  ],
+  "settings.lang.option.both": [
+    "Both",
+    "Both",
+    "Both at once",
+    "Both at once",
+    "Both at once, shoulder to shoulder"
+  ],
+  "settings.lang.option.vi.desc": [
+    "Vietnamese, in the modern Latin spelling with full diacritics.",
+    "Vietnamese, in the modern Latin spelling with full diacritics.",
+    "Vietnamese, written the way people text in Hanoi or Saigon today.",
+    "Vietnamese, written the way people text in Hanoi or Saigon today — not textbook stiff.",
+    "Vietnamese, written the way real people text, particles and all, no stiff translation tone."
+  ],
+  "settings.lang.option.both.desc": [
+    "English and Cantonese together, separated by {separator}.",
+    "English and Cantonese together, separated by {separator}.",
+    "English and Cantonese side by side, with {separator} between them.",
+    "English and Cantonese side by side, joined by a tidy {separator}.",
+    "English and Cantonese arm in arm, with a dignified {separator} holding them together."
+  ],
+  "settings.lang.funny.en.label": [
+    "English funny level",
+    "English funny level",
+    "How funny the English is",
+    "How funny the English is allowed to be",
+    "How theatrical the English is allowed to get"
+  ],
+  "settings.lang.funny.en.desc": [
+    "Level {level} of {max}: {name}.",
+    "Level {level} of {max}: {name}.",
+    "Currently level {level} of {max} — {name}.",
+    "Sitting at level {level} of {max}, which is {name}.",
+    "Currently level {level} of {max}, otherwise known as {name}."
+  ],
+  "settings.lang.funny.yue.label": [
+    "Cantonese funny level",
+    "Cantonese funny level",
+    "How funny the Cantonese is",
+    "How funny the Cantonese is allowed to be",
+    "How theatrical the Cantonese is allowed to get"
+  ],
+  "settings.lang.funny.yue.desc": [
+    "Level {level} of {max}: {name}.",
+    "Level {level} of {max}: {name}.",
+    "Currently level {level} of {max} — {name}.",
+    "Sitting at level {level} of {max}, which is {name}.",
+    "Currently level {level} of {max}, otherwise known as {name}."
+  ],
+  "settings.lang.funny.level.1": [
+    "Plain",
+    "Plain",
+    "Plain",
+    "Plain",
+    "Plain"
+  ],
+  "settings.lang.funny.level.1.desc": [
+    "Facts only. The wording you would put in a manual.",
+    "Facts only. The wording you would put in a manual.",
+    "Just the facts, the way a manual would put it.",
+    "Just the facts. No jokes, no flourishes, no nonsense.",
+    "Just the facts. Not one joke shall pass these lips."
+  ],
+  "settings.lang.funny.level.2": [
+    "Clear",
+    "Clear",
+    "Clear",
+    "Clear",
+    "Clear"
+  ],
+  "settings.lang.funny.level.2.desc": [
+    "Plain, but written by a person.",
+    "Plain, but written by a person.",
+    "Still plain, but it sounds like a person wrote it.",
+    "Still plain, but at least a human being wrote it.",
+    "Still plain, but a living human being clearly held the pen."
+  ],
+  "settings.lang.funny.level.3": [
+    "Warm",
+    "Warm",
+    "Warm",
+    "Warm",
+    "Warm"
+  ],
+  "settings.lang.funny.level.3.desc": [
+    "The house voice. Friendly, not silly.",
+    "The house voice. Friendly, not silly.",
+    "The house voice — friendly, and never silly.",
+    "The house voice: friendly, warm, and never gone daft.",
+    "The house voice: warm as a lantern, and never once daft."
+  ],
+  "settings.lang.funny.level.4": [
+    "Cheeky",
+    "Cheeky",
+    "Cheeky",
+    "Cheeky",
+    "Cheeky"
+  ],
+  "settings.lang.funny.level.4.desc": [
+    "Jokes allowed. Facts still untouched.",
+    "Jokes allowed. The facts stay untouched.",
+    "Jokes allowed, and the facts stay exactly where they were.",
+    "Jokes allowed, teasing allowed, and the facts stay exactly where they were.",
+    "Jokes, teasing and mild insolence allowed. The facts remain untouched throughout."
+  ],
+  "settings.lang.funny.level.5": [
+    "Theatrical",
+    "Theatrical",
+    "Theatrical",
+    "Theatrical",
+    "Theatrical"
+  ],
+  "settings.lang.funny.level.5.desc": [
+    "Full performance. Facts still untouched.",
+    "Full performance. The facts stay untouched.",
+    "A full performance every time, with the facts still perfectly intact.",
+    "Curtains up, orchestra in, and the facts still perfectly intact.",
+    "Curtains up, orchestra in, the farmer weeping in the wings — and every fact still perfectly intact."
+  ],
+  "settings.lang.disclosure": [
+    "The funny level changes the wording of every message, including warnings and failures. It never changes a fact: a number, a name, a file path, a key binding, an error code and a crop price read the same at level {min} and at level {max}.",
+    "The funny level changes the wording of every message, including warnings and failures. It never changes a fact: a number, a name, a file path, a key binding, an error code and a crop price read the same at level {min} and at level {max}.",
+    "The funny level restyles every message you will ever see, warnings and failures included. What it will never do is touch a fact — a number, a name, a file path, a key binding, an error code and a crop price read exactly the same at level {min} and at level {max}.",
+    "The funny level restyles every message in the app, warnings and failures included, so do not expect a quiet life at the top. What it will never do is touch a fact: a number, a name, a file path, a key binding, an error code and a crop price read exactly the same at level {min} and at level {max}.",
+    "The funny level restyles every message this app will ever say to you — warnings, failures, disasters and all. But it is under strict orders and it never touches a fact: a number, a name, a file path, a key binding, an error code and a crop price read exactly, identically, immovably the same at level {min} and at level {max}."
+  ],
+  "settings.lang.disclosure.example": [
+    "For example, {crop} sells for {price}g at every level.",
+    "For example, {crop} sells for {price}g at every level.",
+    "For example: {crop} sells for {price}g, at every single level.",
+    "For example: {crop} sells for {price}g at level one and {price}g at level five. Funny that.",
+    "For example: {crop} sells for {price}g at level one and — hold your breath — {price}g at level five."
+  ],
+  "settings.lang.preview.label": [
+    "Preview",
+    "Preview",
+    "Have a listen",
+    "Have a listen to it",
+    "A small sample, for your consideration"
+  ],
+  "settings.lang.changed": [
+    "Language set to {lang}.",
+    "Language set to {lang}.",
+    "Now speaking {lang}.",
+    "Right then — {lang} it is.",
+    "From this moment on, we speak {lang}."
+  ],
+  "settings.lang.funny.changed": [
+    "Funny level set to {level}, {name}.",
+    "Funny level set to {level}, {name}.",
+    "Funny level is now {level} — {name}.",
+    "Funny level cranked to {level}, otherwise known as {name}.",
+    "Funny level hauled up to {level}, otherwise known as {name}. Consequences follow."
+  ],
+  "settings.motion.label": [
+    "Motion",
+    "Motion",
+    "How much things move",
+    "How much things move",
+    "How much this place is allowed to move"
+  ],
+  "settings.motion.desc": [
+    "This setting overrides the system preference in either direction.",
+    "This setting overrides the system preference in either direction.",
+    "This overrides what your system asks for, in either direction.",
+    "This overrules your system preference, in either direction — you have the final say.",
+    "This overrules your system preference in either direction. You are the final authority here."
+  ],
+  "settings.motion.option.system": [
+    "Follow the system",
+    "Follow the system",
+    "Follow the system",
+    "Do whatever the system says",
+    "Obey the system, quietly"
+  ],
+  "settings.motion.option.full": [
+    "Full motion",
+    "Full motion",
+    "Full motion",
+    "Everything moves",
+    "Everything sways, drifts and sparkles"
+  ],
+  "settings.motion.option.reduced": [
+    "Reduced motion",
+    "Reduced motion",
+    "Calm it down",
+    "Calm the whole thing down",
+    "Still the valley — tweens stay, sparkle goes"
+  ],
+  "settings.motion.reduced.note": [
+    "Particles, shake and sway stop. Movement between tiles stays.",
+    "Particles, shake and sway stop. Movement between tiles stays.",
+    "Particles, shake and sway all stop; the farmer still walks between tiles properly.",
+    "Particles, shake and sway are shown the door; the farmer still walks like a person.",
+    "Particles, shake and sway are shown the door. The farmer still walks like a person, thank goodness."
+  ],
+  "settings.motion.announce.label": [
+    "Announce changes to screen readers",
+    "Announce changes to screen readers",
+    "Announce what changes to a screen reader",
+    "Tell a screen reader what just happened",
+    "Narrate every change aloud for a screen reader"
+  ],
+  "settings.motion.announce.desc": [
+    "State changes are mirrored into a live region.",
+    "State changes are mirrored into a live region.",
+    "Anything that changes is mirrored into a live region for a screen reader.",
+    "Anything that changes gets mirrored into a live region, so nothing happens in silence.",
+    "Every change is mirrored into a live region, so nothing whatsoever happens in silence."
+  ],
+  "settings.scale.label": [
+    "Scale",
+    "Scale",
+    "Scale",
+    "How big?",
+    "How big shall we make it all?"
+  ],
+  "settings.scale.option": [
+    "{percent}%",
+    "{percent}%",
+    "{percent}%",
+    "{percent}%",
+    "{percent}%"
+  ],
+  "settings.scale.desc": [
+    "Tested at {min}% to {max}%, and down to a {width}px window.",
+    "Tested at {min}% to {max}%, and down to a {width}px window.",
+    "It behaves from {min}% all the way to {max}%, and down to a {width}px window.",
+    "It behaves from {min}% to {max}%, and squeezes down to a {width}px window without complaint.",
+    "It holds its nerve from {min}% to {max}%, and squeezes down to a {width}px window without dropping a single pixel."
+  ],
+  "settings.audio.mute.label": [
+    "Mute",
+    "Mute",
+    "Mute everything",
+    "Silence the lot",
+    "Silence the entire valley"
+  ],
+  "settings.audio.mute.desc": [
+    "Audio never starts before your first input.",
+    "Audio never starts before your first input.",
+    "Sound never starts until you press something first.",
+    "Sound will not make a peep until you press something first.",
+    "Sound will not make a single peep until you press something. It has manners."
+  ],
+  "settings.audio.test": [
+    "Play a test sound",
+    "Play a test sound",
+    "Play a test sound",
+    "Give me a sound",
+    "Let us hear a sound, then"
+  ],
+  "settings.game.seed.label": [
+    "Farm seed",
+    "Farm seed",
+    "The seed this farm grew from",
+    "The seed this whole farm grew from",
+    "The single number this entire valley grew out of"
+  ],
+  "settings.game.seed.desc": [
+    "Seed {seed}. The same seed always lays out the same farm.",
+    "Seed {seed}. The same seed always lays out the same farm.",
+    "Seed {seed}. The same seed always grows the same farm, rock for rock.",
+    "Seed {seed}. The same seed grows the same farm every time, rock for rock, weed for weed.",
+    "Seed {seed}. Feed it the same number and it lays down the same valley, rock for rock, weed for weed, forever."
+  ],
+  "settings.game.newFarm": [
+    "Start a new farm",
+    "Start a new farm",
+    "Start a new farm",
+    "Start again on fresh soil",
+    "Abandon this valley and begin again on fresh soil"
+  ],
+  "settings.game.newFarm.confirm.title": [
+    "Start a new farm?",
+    "Start a new farm?",
+    "Start a new farm?",
+    "Really start over?",
+    "Truly abandon this valley?"
+  ],
+  "settings.game.newFarm.confirm.body": [
+    "The current save is deleted. {days} days of work go with it.",
+    "The current save is deleted. {days} days of work go with it.",
+    "The current save is deleted, and {days} days of work go with it.",
+    "The current save goes in the bin, and {days} days of work go with it.",
+    "The current save goes in the bin, and {days} days of honest labour go with it, unmourned."
+  ],
+  "settings.data.export.label": [
+    "Export",
+    "Export",
+    "Export your data",
+    "Take a copy of everything",
+    "Pack the whole valley into a file and take it with you"
+  ],
+  "settings.data.import.label": [
+    "Import",
+    "Import",
+    "Import data",
+    "Bring data back in",
+    "Bring a whole valley back in from a file"
+  ],
+  "settings.data.reset.label": [
+    "Reset everything",
+    "Reset everything",
+    "Reset everything",
+    "Wipe the lot",
+    "Wipe the lot and start from nothing"
+  ],
+  "settings.data.reset.desc": [
+    "Deletes settings, appearance, tabs and history on this computer.",
+    "Deletes settings, appearance, tabs and history on this computer.",
+    "Deletes your settings, appearance, tabs and history from this computer.",
+    "Deletes your settings, appearance, tabs and history. There is no undo.",
+    "Deletes settings, appearance, tabs and history. There is no undo, no backup and no mercy."
+  ],
+  "settings.data.reset.confirm.title": [
+    "Reset everything?",
+    "Reset everything?",
+    "Reset everything?",
+    "Really wipe the lot?",
+    "Truly wipe every last trace?"
+  ],
+  "settings.data.reset.confirm.body": [
+    "This cannot be undone.",
+    "This cannot be undone.",
+    "There is no undo for this one.",
+    "There is no undo, no backup and no second chance.",
+    "There is no undo, no backup, no second chance and no kindly stranger to restore it."
+  ],
+  "settings.data.reset.done": [
+    "Everything is reset.",
+    "Everything is reset.",
+    "Everything is back to how it started.",
+    "Done — everything is back to how it started.",
+    "Done. Everything is exactly as it was on the first morning."
+  ],
+  "settings.about.version": [
+    "Version {version}",
+    "Version {version}",
+    "Version {version}",
+    "Version {version}",
+    "Version {version}, freshly minted"
+  ],
+  "settings.about.licence": [
+    "Licence: {licence}",
+    "Licence: {licence}",
+    "Licensed under {licence}",
+    "Licensed under {licence}",
+    "Licensed under {licence}, generously"
+  ],
+  "settings.about.author": [
+    "Made by {author}",
+    "Made by {author}",
+    "Made by {author}",
+    "Made by {author}",
+    "Made, pixel by pixel, by {author}"
+  ],
+  "settings.about.offline": [
+    "This app makes no network requests.",
+    "This app makes no network requests.",
+    "This app never talks to the network. Not once.",
+    "This app never talks to the network. Not once, not ever.",
+    "This app never talks to the network. Not once, not ever, not even to say hello."
+  ],
+  "appearance.open": [
+    "Edit appearance…",
+    "Edit appearance…",
+    "Edit how this looks…",
+    "Change how this looks…",
+    "Take this element aside and redress it…"
+  ],
+  "appearance.editor.title": [
+    "Appearance of {element}",
+    "Appearance of {element}",
+    "How {element} looks",
+    "Dressing up {element}",
+    "The complete wardrobe of {element}"
+  ],
+  "appearance.editor.hint": [
+    "Right-click any element, or press {keys} while it has focus.",
+    "Right-click any element, or press {keys} while it has focus.",
+    "Right-click anything here, or press {keys} while it has focus.",
+    "Right-click anything at all, or press {keys} while it has focus.",
+    "Right-click anything at all, or press {keys} while it has focus. Nothing is safe from you."
+  ],
+  "appearance.field.color": [
+    "Text colour",
+    "Text colour",
+    "Text colour",
+    "Colour of the text",
+    "The colour the words are wearing"
+  ],
+  "appearance.field.background": [
+    "Background",
+    "Background",
+    "Background colour",
+    "Colour behind it",
+    "The colour standing behind it"
+  ],
+  "appearance.field.border": [
+    "Border colour",
+    "Border colour",
+    "Border colour",
+    "Colour of the frame",
+    "The colour of the carved wooden frame"
+  ],
+  "appearance.field.size": [
+    "Text size",
+    "Text size",
+    "Text size",
+    "How big the text is",
+    "How big the words are allowed to be"
+  ],
+  "appearance.field.spacing": [
+    "Spacing",
+    "Spacing",
+    "Spacing",
+    "Room around it",
+    "How much room it gets to breathe"
+  ],
+  "appearance.field.weight": [
+    "Weight",
+    "Weight",
+    "Weight",
+    "How bold it is",
+    "How bold it dares to be"
+  ],
+  "appearance.field.align": [
+    "Alignment",
+    "Alignment",
+    "Alignment",
+    "Which way it lines up",
+    "Which way it chooses to line up"
+  ],
+  "appearance.field.visible": [
+    "Visible",
+    "Visible",
+    "Shown or hidden",
+    "Shown, or hidden away",
+    "Present, or spirited away entirely"
+  ],
+  "appearance.value.inherited": [
+    "Inherited",
+    "Inherited",
+    "Inherited from the theme",
+    "Whatever the theme says",
+    "Whatever the theme decrees"
+  ],
+  "appearance.changed": [
+    "{element} updated.",
+    "{element} updated.",
+    "{element} has a new look.",
+    "{element} has had a makeover.",
+    "{element} has been utterly transformed."
+  ],
+  "appearance.reset": [
+    "Reset {element}",
+    "Reset {element}",
+    "Put {element} back",
+    "Put {element} back how it was",
+    "Return {element} to its original state"
+  ],
+  "appearance.reset.done": [
+    "{element} is back to the default.",
+    "{element} is back to the default.",
+    "{element} is back to how it started.",
+    "{element} is back to how it started, no harm done.",
+    "{element} has returned to the default, older and wiser."
+  ],
+  "appearance.resetAll": [
+    "Reset all appearance",
+    "Reset all appearance",
+    "Reset every appearance change",
+    "Undo every appearance change",
+    "Undo every last appearance change in one sweep"
+  ],
+  "appearance.resetAll.confirm.body": [
+    "{count} elements go back to their defaults.",
+    "{count} elements go back to their defaults.",
+    "{count} elements go back to how they started.",
+    "{count} elements go back to how they started. No undo.",
+    "{count} elements march back to their defaults. There is no undo."
+  ],
+  "search.appearance.label": [
+    "Search appearance settings",
+    "Search appearance settings",
+    "Search the appearance settings",
+    "Hunt through the appearance settings",
+    "Interrogate every appearance setting there is"
+  ],
+  "search.appearance.placeholder": [
+    "Search appearance",
+    "Search appearance",
+    "Search appearance",
+    "What do you want to change?",
+    "Name what you want changed"
+  ],
+  "color.picker.title": [
+    "Colour",
+    "Colour",
+    "Pick a colour",
+    "Pick a colour",
+    "Choose a colour, any colour"
+  ],
+  "color.area.label": [
+    "Saturation and brightness",
+    "Saturation and brightness",
+    "Saturation and brightness",
+    "Drag for saturation and brightness",
+    "Drag about for saturation and brightness"
+  ],
+  "color.hue.label": [
+    "Hue",
+    "Hue",
+    "Hue",
+    "Hue",
+    "Hue, the whole rainbow of it"
+  ],
+  "color.alpha.label": [
+    "Opacity",
+    "Opacity",
+    "Opacity",
+    "How solid it is",
+    "How solid, or how ghostly"
+  ],
+  "color.field.hex": [
+    "Hex",
+    "Hex",
+    "Hex",
+    "Hex",
+    "Hex, for the purists"
+  ],
+  "color.field.rgb": [
+    "RGB",
+    "RGB",
+    "RGB",
+    "RGB",
+    "RGB, red green blue, the old way"
+  ],
+  "color.field.hsl": [
+    "HSL",
+    "HSL",
+    "HSL",
+    "HSL",
+    "HSL, for people who think in hues"
+  ],
+  "color.field.palette": [
+    "Palette colour",
+    "Palette colour",
+    "From the palette",
+    "From the valley palette",
+    "Straight from the valley palette itself"
+  ],
+  "color.sync.note": [
+    "Editing one representation updates the others.",
+    "Editing one representation updates the others.",
+    "Change any one of these and the rest follow along.",
+    "Change any one of these and the rest follow, instantly.",
+    "Change any one of these and the rest fall into line at once, obediently."
+  ],
+  "color.invalid": [
+    "{value} is not a colour.",
+    "{value} is not a colour.",
+    "{value} is not a colour this understands.",
+    "{value} is not a colour, sorry.",
+    "{value} is not a colour, and no amount of squinting will make it one."
+  ],
+  "color.current": [
+    "Current colour {value}",
+    "Current colour {value}",
+    "Currently {value}",
+    "Currently wearing {value}",
+    "Currently wearing {value}, and wearing it well"
+  ],
+  "color.contrast": [
+    "Contrast {ratio} to 1",
+    "Contrast {ratio} to 1",
+    "Contrast is {ratio} to 1",
+    "Contrast sits at {ratio} to 1",
+    "Contrast stands proudly at {ratio} to 1"
+  ],
+  "color.contrast.warn": [
+    "Contrast {ratio} to 1 is below the required {required} to 1.",
+    "Contrast {ratio} to 1 is below the required {required} to 1.",
+    "Contrast is only {ratio} to 1, under the {required} to 1 this needs.",
+    "Contrast is a feeble {ratio} to 1, under the {required} to 1 this needs.",
+    "Contrast limps in at {ratio} to 1, well under the {required} to 1 it is meant to clear."
+  ],
+  "search.color.label": [
+    "Search palette colours",
+    "Search palette colours",
+    "Search the palette",
+    "Hunt through the palette",
+    "Interrogate all fourteen palette colours"
+  ],
+  "search.color.placeholder": [
+    "Search colours",
+    "Search colours",
+    "Search colours",
+    "Which colour?",
+    "Name the colour you want"
+  ],
+  "color.name.ink": [
+    "Ink",
+    "Ink",
+    "Ink",
+    "Ink",
+    "Ink"
+  ],
+  "color.name.shadow": [
+    "Shadow",
+    "Shadow",
+    "Shadow",
+    "Shadow",
+    "Shadow"
+  ],
+  "color.name.bark": [
+    "Bark",
+    "Bark",
+    "Bark",
+    "Bark",
+    "Bark"
+  ],
+  "color.name.soil": [
+    "Soil",
+    "Soil",
+    "Soil",
+    "Soil",
+    "Soil"
+  ],
+  "color.name.soilWet": [
+    "Wet soil",
+    "Wet soil",
+    "Wet soil",
+    "Wet soil",
+    "Wet soil"
+  ],
+  "color.name.grass": [
+    "Grass",
+    "Grass",
+    "Grass",
+    "Grass",
+    "Grass"
+  ],
+  "color.name.grassLit": [
+    "Lit grass",
+    "Lit grass",
+    "Lit grass",
+    "Lit grass",
+    "Lit grass"
+  ],
+  "color.name.leaf": [
+    "Leaf",
+    "Leaf",
+    "Leaf",
+    "Leaf",
+    "Leaf"
+  ],
+  "color.name.parchment": [
+    "Parchment",
+    "Parchment",
+    "Parchment",
+    "Parchment",
+    "Parchment"
+  ],
+  "color.name.cream": [
+    "Cream",
+    "Cream",
+    "Cream",
+    "Cream",
+    "Cream"
+  ],
+  "color.name.lantern": [
+    "Lantern",
+    "Lantern",
+    "Lantern",
+    "Lantern",
+    "Lantern"
+  ],
+  "color.name.berry": [
+    "Berry",
+    "Berry",
+    "Berry",
+    "Berry",
+    "Berry"
+  ],
+  "color.name.sky": [
+    "Sky",
+    "Sky",
+    "Sky",
+    "Sky",
+    "Sky"
+  ],
+  "color.name.dusk": [
+    "Dusk",
+    "Dusk",
+    "Dusk",
+    "Dusk",
+    "Dusk"
+  ],
+  "search.clear": [
+    "Clear the search",
+    "Clear the search",
+    "Clear the search",
+    "Wipe the search",
+    "Wipe the search and start afresh"
+  ],
+  "search.mode.plain": [
+    "Plain text",
+    "Plain text",
+    "Plain text",
+    "Just plain text",
+    "Just plain honest text"
+  ],
+  "search.mode.regex": [
+    "Regular expression",
+    "Regular expression",
+    "Regular expression",
+    "Regular expression, if you dare",
+    "Regular expression, for the brave"
+  ],
+  "search.mode.hint": [
+    "Plain text is the default. Turn on regex to write a pattern.",
+    "Plain text is the default. Turn on regex to write a pattern.",
+    "Plain text unless you say otherwise — flip regex on to write a real pattern.",
+    "Plain text unless you say otherwise. Flip regex on and write a real pattern.",
+    "Plain text unless you say otherwise. Flip regex on and the full machinery awaits you."
+  ],
+  "search.results": [
+    "{count} results",
+    "{count} results",
+    "{count} results",
+    "{count} results found",
+    "{count} results, hunted down and presented"
+  ],
+  "search.results.none": [
+    "Nothing matches {query}.",
+    "Nothing matches {query}.",
+    "Nothing matches {query}.",
+    "Not one thing matches {query}.",
+    "Not one single thing answers to {query}."
+  ],
+  "search.builder.open": [
+    "Open the pattern builder",
+    "Open the pattern builder",
+    "Open the pattern builder",
+    "Open the pattern builder",
+    "Summon the pattern builder"
+  ],
+  "search.builder.close": [
+    "Close the pattern builder",
+    "Close the pattern builder",
+    "Close the pattern builder",
+    "Put the pattern builder away",
+    "Dismiss the pattern builder, with thanks"
+  ],
+  "regex.title": [
+    "Pattern builder",
+    "Pattern builder",
+    "Pattern builder",
+    "Pattern builder",
+    "The pattern builder, at your service"
+  ],
+  "regex.dialect": [
+    "Dialect: {dialect}.",
+    "Dialect: {dialect}.",
+    "This builds a {dialect} pattern.",
+    "This builds a {dialect} pattern, and nothing else.",
+    "This builds a {dialect} pattern, and nothing else. No lookbehind fantasies."
+  ],
+  "regex.pattern.label": [
+    "Pattern",
+    "Pattern",
+    "The pattern",
+    "The pattern itself",
+    "The pattern itself, raw and unashamed"
+  ],
+  "regex.pattern.placeholder": [
+    "Type a pattern",
+    "Type a pattern",
+    "Type a pattern",
+    "Type a pattern, or build one below",
+    "Type a pattern, or let the builder below do the work"
+  ],
+  "regex.flags.label": [
+    "Flags",
+    "Flags",
+    "Flags",
+    "Flags",
+    "Flags, the small print of a pattern"
+  ],
+  "regex.flag.i": [
+    "Ignore case",
+    "Ignore case",
+    "Ignore upper and lower case",
+    "Do not care about case",
+    "Treat upper and lower case as the same thing"
+  ],
+  "regex.flag.g": [
+    "Find all matches",
+    "Find all matches",
+    "Find every match",
+    "Find every last match",
+    "Hunt down every last match"
+  ],
+  "regex.flag.m": [
+    "Multiline anchors",
+    "Multiline anchors",
+    "Anchors match each line",
+    "Anchors match each line, not just the whole text",
+    "Anchors bite at each line, not just the whole text"
+  ],
+  "regex.flag.s": [
+    "Dot matches newline",
+    "Dot matches newline",
+    "The dot matches a newline too",
+    "The dot swallows newlines too",
+    "The dot swallows newlines too, greedily"
+  ],
+  "regex.flag.u": [
+    "Unicode",
+    "Unicode",
+    "Full Unicode",
+    "Full Unicode, emoji and all",
+    "Full Unicode, emoji, accents and all"
+  ],
+  "regex.flag.y": [
+    "Sticky",
+    "Sticky",
+    "Sticky — match from where it left off",
+    "Sticky: carry on from where it left off",
+    "Sticky: it carries on stubbornly from where it left off"
+  ],
+  "regex.piece.literal": [
+    "Literal text",
+    "Literal text",
+    "Literal text",
+    "Just this exact text",
+    "Exactly this text, character for character"
+  ],
+  "regex.piece.charclass": [
+    "Character class",
+    "Character class",
+    "Any one of these characters",
+    "Any one of these characters",
+    "Any one character out of this little committee"
+  ],
+  "regex.piece.any": [
+    "Any character",
+    "Any character",
+    "Any character at all",
+    "Any character at all",
+    "Absolutely any character at all"
+  ],
+  "regex.piece.digit": [
+    "A digit",
+    "A digit",
+    "A digit",
+    "A digit, zero to nine",
+    "A digit, zero through nine, no exceptions"
+  ],
+  "regex.piece.word": [
+    "A word character",
+    "A word character",
+    "A word character",
+    "A letter, digit or underscore",
+    "A letter, a digit or a humble underscore"
+  ],
+  "regex.piece.space": [
+    "Whitespace",
+    "Whitespace",
+    "Whitespace",
+    "A space, tab or newline",
+    "A space, a tab or a newline — the invisible ones"
+  ],
+  "regex.piece.anchor.start": [
+    "Start of text",
+    "Start of text",
+    "Start of the text",
+    "Right at the start",
+    "Right at the very start, and nowhere else"
+  ],
+  "regex.piece.anchor.end": [
+    "End of text",
+    "End of text",
+    "End of the text",
+    "Right at the end",
+    "Right at the very end, and nowhere else"
+  ],
+  "regex.piece.wordboundary": [
+    "Word boundary",
+    "Word boundary",
+    "The edge of a word",
+    "The edge of a word",
+    "The invisible line at the edge of a word"
+  ],
+  "regex.piece.group": [
+    "Group",
+    "Group",
+    "Group",
+    "Group them together",
+    "Bundle them together as one"
+  ],
+  "regex.piece.capture": [
+    "Capturing group",
+    "Capturing group",
+    "Capture this part",
+    "Capture this part for later",
+    "Capture this part and keep it for later"
+  ],
+  "regex.piece.noncapture": [
+    "Non-capturing group",
+    "Non-capturing group",
+    "Group it without capturing",
+    "Group it, but do not keep it",
+    "Group it, but do not bother keeping it"
+  ],
+  "regex.piece.alternation": [
+    "Either or",
+    "Either or",
+    "This or that",
+    "This one or that one",
+    "This one, or that one — the pattern will not mind"
+  ],
+  "regex.piece.quantifier": [
+    "Repeat",
+    "Repeat",
+    "Repeat it",
+    "How many times?",
+    "How many times shall it repeat?"
+  ],
+  "regex.quantifier.optional": [
+    "Once or not at all",
+    "Once or not at all",
+    "Once, or not at all",
+    "Once, or not at all",
+    "Once, or not at all — no pressure"
+  ],
+  "regex.quantifier.some": [
+    "One or more",
+    "One or more",
+    "One or more",
+    "At least one",
+    "At least one, and as many as it likes"
+  ],
+  "regex.quantifier.any": [
+    "Zero or more",
+    "Zero or more",
+    "Any number, including none",
+    "Any number at all, including none",
+    "Any number at all, none very much included"
+  ],
+  "regex.quantifier.exact": [
+    "Exactly {count}",
+    "Exactly {count}",
+    "Exactly {count} times",
+    "Exactly {count} times, no more",
+    "Exactly {count} times, not one more, not one fewer"
+  ],
+  "regex.quantifier.range": [
+    "{min} to {max} times",
+    "{min} to {max} times",
+    "{min} to {max} times",
+    "Between {min} and {max} times",
+    "Somewhere between {min} and {max} times, inclusive"
+  ],
+  "regex.piece.add": [
+    "Add {piece}",
+    "Add {piece}",
+    "Add {piece}",
+    "Add {piece} to the pattern",
+    "Add {piece} to the growing pattern"
+  ],
+  "regex.piece.remove": [
+    "Remove {piece}",
+    "Remove {piece}",
+    "Take {piece} out",
+    "Take {piece} back out",
+    "Escort {piece} out of the pattern"
+  ],
+  "regex.piece.moveUp": [
+    "Move {piece} earlier",
+    "Move {piece} earlier",
+    "Move {piece} earlier",
+    "Shift {piece} earlier",
+    "Shuffle {piece} one place earlier"
+  ],
+  "regex.piece.moveDown": [
+    "Move {piece} later",
+    "Move {piece} later",
+    "Move {piece} later",
+    "Shift {piece} later",
+    "Shuffle {piece} one place later"
+  ],
+  "regex.sample.label": [
+    "Sample text",
+    "Sample text",
+    "Sample text to try it on",
+    "Something to try it on",
+    "A victim to try the pattern on"
+  ],
+  "regex.sample.placeholder": [
+    "Paste some text here",
+    "Paste some text here",
+    "Paste some text here",
+    "Paste anything here",
+    "Paste anything at all here"
+  ],
+  "regex.sample.limit": [
+    "The sample is limited to {max} characters.",
+    "The sample is limited to {max} characters.",
+    "The sample stops at {max} characters.",
+    "The sample stops at {max} characters, for everyone’s sake.",
+    "The sample stops dead at {max} characters, for the good of us all."
+  ],
+  "regex.sample.truncatedInput": [
+    "The sample was cut to {max} characters.",
+    "The sample was cut to {max} characters.",
+    "The sample was trimmed to {max} characters.",
+    "The sample was trimmed down to {max} characters.",
+    "The sample was trimmed down to {max} characters. The rest is on the cutting room floor."
+  ],
+  "regex.matches": [
+    "{count} matches",
+    "{count} matches",
+    "{count} matches",
+    "{count} matches found",
+    "{count} matches, rounded up and counted"
+  ],
+  "regex.matches.none": [
+    "No matches.",
+    "No matches.",
+    "Nothing matched.",
+    "Nothing matched at all.",
+    "Nothing matched. Not one character volunteered."
+  ],
+  "regex.matches.truncated": [
+    "Showing the first {shown} of {limit}.",
+    "Showing the first {shown} of {limit}.",
+    "Showing the first {shown} — the limit is {limit}.",
+    "Showing the first {shown}; the limit is {limit} and we hit it.",
+    "Showing the first {shown}; the limit is {limit}, and we walked straight into it."
+  ],
+  "regex.timeout": [
+    "The pattern was stopped after {ms} ms.",
+    "The pattern was stopped after {ms} ms.",
+    "The pattern was taking too long and was stopped after {ms} ms.",
+    "The pattern went off wandering and was stopped after {ms} ms.",
+    "The pattern wandered off into the wilderness and was hauled back after {ms} ms."
+  ],
+  "regex.match.at": [
+    "Match at {index}: {text}",
+    "Match at {index}: {text}",
+    "Match at {index}: {text}",
+    "A match at {index}: {text}",
+    "A match, right at {index}: {text}"
+  ],
+  "regex.match.empty": [
+    "Empty match at {index}",
+    "Empty match at {index}",
+    "An empty match at {index}",
+    "An empty match at {index} — it matched nothing at all",
+    "An empty match at {index}: it matched precisely nothing, and was proud of it"
+  ],
+  "regex.group.numbered": [
+    "Group {n}: {text}",
+    "Group {n}: {text}",
+    "Group {n}: {text}",
+    "Group {n} caught: {text}",
+    "Group {n} came back holding: {text}"
+  ],
+  "regex.group.named": [
+    "Group {name}: {text}",
+    "Group {name}: {text}",
+    "Group {name}: {text}",
+    "Group {name} caught: {text}",
+    "Group {name} came back holding: {text}"
+  ],
+  "regex.valid": [
+    "The pattern is valid.",
+    "The pattern is valid.",
+    "The pattern is good.",
+    "The pattern is good to go.",
+    "The pattern is in perfect health."
+  ],
+  "regex.error": [
+    "The pattern is not valid: {error}",
+    "The pattern is not valid: {error}",
+    "That pattern does not work: {error}",
+    "That pattern is broken: {error}",
+    "That pattern is a shambles, and here is why: {error}"
+  ],
+  "regex.error.at": [
+    "The pattern is not valid at character {index}: {error}",
+    "The pattern is not valid at character {index}: {error}",
+    "The pattern breaks at character {index}: {error}",
+    "The pattern falls over at character {index}: {error}",
+    "The pattern falls flat on its face at character {index}: {error}"
+  ],
+  "regex.empty": [
+    "An empty pattern matches everything.",
+    "An empty pattern matches everything.",
+    "An empty pattern matches everything, so nothing is filtered.",
+    "An empty pattern matches everything, which filters precisely nothing.",
+    "An empty pattern matches everything, which is a grand way of filtering nothing at all."
+  ],
+  "regex.escape.note": [
+    "Plain text is escaped for you: {chars} lose their special meaning.",
+    "Plain text is escaped for you: {chars} lose their special meaning.",
+    "In plain mode we escape it for you, so {chars} lose their special meaning.",
+    "In plain mode we escape it for you, so {chars} behave like ordinary characters.",
+    "In plain mode we escape it for you, so {chars} are stripped of their powers and behave."
+  ],
+  "regex.copy": [
+    "Copy the pattern",
+    "Copy the pattern",
+    "Copy the pattern",
+    "Grab a copy of the pattern",
+    "Take a copy of this fine pattern"
+  ],
+  "regex.export": [
+    "Export the pattern and matches",
+    "Export the pattern and matches",
+    "Export the pattern and its matches",
+    "Export the pattern and everything it caught",
+    "Export the pattern and every last thing it caught"
+  ],
+  "regex.notPersisted": [
+    "Patterns are not saved. This one lives only while the field is open.",
+    "Patterns are not saved. This one lives only while the field is open.",
+    "Patterns are never saved — this one lives only while the field is open.",
+    "Patterns are never saved. This one exists only while the field is open.",
+    "Patterns are never saved. This one exists only while the field is open, then vanishes without trace."
+  ],
+  "catalogue.title": [
+    "Search surfaces",
+    "Search surfaces",
+    "Every search in the app",
+    "Every search field in the app",
+    "Every last search field this app owns"
+  ],
+  "catalogue.desc": [
+    "Every list, table, picker and menu has a search field, and each one is listed here.",
+    "Every list, table, picker and menu has a search field, and each one is listed here.",
+    "Every list, table, picker and menu has its own search field, and they are all listed here.",
+    "Every list, table, picker and menu has its own search field, and not one of them escapes this list.",
+    "Every list, table, picker and menu has its own search field, and not one of them escapes this list. We checked."
+  ],
+  "catalogue.column.id": [
+    "Identifier",
+    "Identifier",
+    "Identifier",
+    "Identifier",
+    "Its identifier"
+  ],
+  "catalogue.column.where": [
+    "Where it lives",
+    "Where it lives",
+    "Where it lives",
+    "Where you will find it",
+    "Where in the world you will find it"
+  ],
+  "catalogue.column.what": [
+    "What it searches",
+    "What it searches",
+    "What it searches",
+    "What it actually searches",
+    "What it actually goes looking through"
+  ],
+  "catalogue.count": [
+    "{count} search fields.",
+    "{count} search fields.",
+    "{count} search fields in total.",
+    "{count} search fields, all present and correct.",
+    "{count} search fields, all present, correct and accounted for."
+  ],
+  "search.catalogue.label": [
+    "Search the catalogue",
+    "Search the catalogue",
+    "Search the catalogue of searches",
+    "Search the catalogue of searches",
+    "Search the catalogue of searches, which is admittedly funny"
+  ],
+  "search.catalogue.placeholder": [
+    "Search fields",
+    "Search fields",
+    "Search fields",
+    "Which search field?",
+    "Which search field are you after?"
+  ],
+  "palette.title": [
+    "Command palette",
+    "Command palette",
+    "Command palette",
+    "Command palette",
+    "The command palette, keeper of every shortcut"
+  ],
+  "palette.label": [
+    "Search commands and places",
+    "Search commands and places",
+    "Search commands and places",
+    "Search every command and place",
+    "Search every command and every place worth going"
+  ],
+  "palette.placeholder": [
+    "Type a command",
+    "Type a command",
+    "Type a command or a place",
+    "What do you want to do?",
+    "Say the word and it shall be done"
+  ],
+  "palette.hint": [
+    "Open it with {keys}.",
+    "Open it with {keys}.",
+    "Open it any time with {keys}.",
+    "Open it any time with {keys}.",
+    "Summon it any time at all with {keys}."
+  ],
+  "palette.group.commands": [
+    "Commands",
+    "Commands",
+    "Commands",
+    "Things to do",
+    "Things you could do right now"
+  ],
+  "palette.group.tabs": [
+    "Tabs",
+    "Tabs",
+    "Tabs",
+    "Tabs to jump to",
+    "Tabs waiting to be visited"
+  ],
+  "palette.group.settings": [
+    "Settings",
+    "Settings",
+    "Settings",
+    "Settings to jump to",
+    "Settings waiting to be adjusted"
+  ],
+  "palette.group.appearance": [
+    "Appearance",
+    "Appearance",
+    "Appearance",
+    "Things you can restyle",
+    "Things you can restyle to your heart’s content"
+  ],
+  "palette.group.docs": [
+    "Documentation",
+    "Documentation",
+    "Documentation",
+    "Things to read",
+    "Things to read on a quiet evening"
+  ],
+  "palette.group.history": [
+    "History",
+    "History",
+    "History",
+    "What you have done",
+    "Everything you have already done"
+  ],
+  "palette.empty": [
+    "Nothing matches {query}.",
+    "Nothing matches {query}.",
+    "Nothing matches {query}.",
+    "Nothing at all matches {query}.",
+    "Nothing whatsoever answers to {query}."
+  ],
+  "palette.count": [
+    "{count} results",
+    "{count} results",
+    "{count} results",
+    "{count} results ready",
+    "{count} results, lined up and waiting"
+  ],
+  "palette.run": [
+    "Run {title}",
+    "Run {title}",
+    "Run {title}",
+    "Go on then, run {title}",
+    "Unleash {title} upon the world"
+  ],
+  "palette.goto": [
+    "Go to {title}",
+    "Go to {title}",
+    "Go to {title}",
+    "Take me to {title}",
+    "Whisk me away to {title}"
+  ],
+  "palette.regexToggle": [
+    "Match with a regular expression",
+    "Match with a regular expression",
+    "Match with a regular expression",
+    "Match with a regular expression instead",
+    "Match with a full regular expression, if you insist"
+  ],
+  "cmd.openSettings": [
+    "Open settings",
+    "Open settings",
+    "Open settings",
+    "Open the settings",
+    "Fling open the settings"
+  ],
+  "cmd.openAlmanac": [
+    "Open the almanac",
+    "Open the almanac",
+    "Open the almanac",
+    "Open the almanac",
+    "Open the almanac and read up"
+  ],
+  "cmd.openLedger": [
+    "Open the ledger",
+    "Open the ledger",
+    "Open the ledger",
+    "Open the ledger",
+    "Open the ledger and face the numbers"
+  ],
+  "cmd.openChangelog": [
+    "Open the changelog",
+    "Open the changelog",
+    "Open the changelog",
+    "Open the changelog",
+    "Open the changelog and see what changed"
+  ],
+  "cmd.openHistory": [
+    "Open the history",
+    "Open the history",
+    "Open the history",
+    "Open your history",
+    "Open your history and face the past"
+  ],
+  "cmd.focusFarm": [
+    "Go to the farm",
+    "Go to the farm",
+    "Back to the farm",
+    "Back to the farm",
+    "Back to the farm, where the work is"
+  ],
+  "cmd.newTab": [
+    "New tab",
+    "New tab",
+    "Open a new tab",
+    "Open a new tab",
+    "Open a brand new tab"
+  ],
+  "cmd.closeTab": [
+    "Close this tab",
+    "Close this tab",
+    "Close this tab",
+    "Close this tab",
+    "Close this tab and be done with it"
+  ],
+  "cmd.nextTab": [
+    "Next tab",
+    "Next tab",
+    "Next tab",
+    "On to the next tab",
+    "On to the next tab, quickly"
+  ],
+  "cmd.prevTab": [
+    "Previous tab",
+    "Previous tab",
+    "Previous tab",
+    "Back to the last tab",
+    "Back to the last tab, quickly"
+  ],
+  "cmd.setLang": [
+    "Switch to {lang}",
+    "Switch to {lang}",
+    "Switch to {lang}",
+    "Switch over to {lang}",
+    "Switch the whole app over to {lang}"
+  ],
+  "cmd.funnyUp": [
+    "Funnier",
+    "Funnier",
+    "Make it funnier",
+    "Turn the funny up",
+    "Turn the funny up and stand well back"
+  ],
+  "cmd.funnyDown": [
+    "Less funny",
+    "Less funny",
+    "Make it plainer",
+    "Turn the funny down",
+    "Turn the funny down and let us all breathe"
+  ],
+  "cmd.toggleMute": [
+    "Mute or unmute",
+    "Mute or unmute",
+    "Mute or unmute",
+    "Silence it, or bring it back",
+    "Silence the valley, or wake it up again"
+  ],
+  "cmd.toggleMotion": [
+    "Toggle reduced motion",
+    "Toggle reduced motion",
+    "Turn reduced motion on or off",
+    "Calm the motion down, or let it loose",
+    "Calm the motion down, or let the whole valley sway again"
+  ],
+  "cmd.zoomIn": [
+    "Increase the scale",
+    "Increase the scale",
+    "Make everything bigger",
+    "Make everything bigger",
+    "Make everything gloriously bigger"
+  ],
+  "cmd.zoomOut": [
+    "Decrease the scale",
+    "Decrease the scale",
+    "Make everything smaller",
+    "Make everything smaller",
+    "Make everything modestly smaller"
+  ],
+  "cmd.zoomReset": [
+    "Reset the scale",
+    "Reset the scale",
+    "Back to the normal scale",
+    "Back to the normal scale",
+    "Back to the normal scale, and no arguing"
+  ],
+  "cmd.exportData": [
+    "Export data",
+    "Export data",
+    "Export your data",
+    "Take a copy of everything",
+    "Pack it all up and take it with you"
+  ],
+  "cmd.resetAll": [
+    "Reset everything",
+    "Reset everything",
+    "Reset everything",
+    "Wipe the lot",
+    "Wipe the lot and start from nothing"
+  ],
+  "cmd.copyDiagnostics": [
+    "Copy diagnostics",
+    "Copy diagnostics",
+    "Copy the diagnostics",
+    "Copy the diagnostics",
+    "Copy the diagnostics, for when things go wrong"
+  ],
+  "cmd.surprise": [
+    "Show the surprise",
+    "Show the surprise",
+    "Show the surprise",
+    "Show me the surprise",
+    "Show me the surprise, I have earned it"
+  ],
+  "cmd.minimise": [
+    "Minimise the window",
+    "Minimise the window",
+    "Minimise the window",
+    "Tuck the window away",
+    "Send the window away for a moment"
+  ],
+  "cmd.maximise": [
+    "Maximise the window",
+    "Maximise the window",
+    "Fill the screen",
+    "Take the whole screen",
+    "Seize the entire screen"
+  ],
+  "cmd.closeWindow": [
+    "Close the window",
+    "Close the window",
+    "Close the window",
+    "Close the window",
+    "Close the window and call it a day"
+  ],
+  "notify.region.label": [
+    "Notifications",
+    "Notifications",
+    "Notifications",
+    "Notifications",
+    "Notifications, stacked politely"
+  ],
+  "notify.dismiss": [
+    "Dismiss",
+    "Dismiss",
+    "Dismiss this",
+    "Away with it",
+    "Away with it, we have all read it"
+  ],
+  "notify.dismissAll": [
+    "Dismiss all",
+    "Dismiss all",
+    "Dismiss them all",
+    "Clear the whole stack",
+    "Clear the whole stack in one sweep"
+  ],
+  "notify.paused": [
+    "Paused while you read it.",
+    "Paused while you read it.",
+    "Paused while you read it.",
+    "It will wait while you read it.",
+    "It will wait patiently while you read it. Take your time."
+  ],
+  "notify.progress": [
+    "{label}: {percent}%",
+    "{label}: {percent}%",
+    "{label} — {percent}%",
+    "{label}, {percent}% of the way there",
+    "{label}, {percent}% of the way there and going strong"
+  ],
+  "notify.progress.done": [
+    "{label} finished.",
+    "{label} finished.",
+    "{label} is done.",
+    "{label} is done and dusted.",
+    "{label} is done, dusted and filed away."
+  ],
+  "notify.success": [
+    "Done.",
+    "Done.",
+    "Done.",
+    "All done.",
+    "All done, and rather neatly too."
+  ],
+  "notify.failure": [
+    "That failed: {error}",
+    "That failed: {error}",
+    "That did not work: {error}",
+    "That fell over: {error}",
+    "That fell over spectacularly: {error}"
+  ],
+  "dialog.confirm.title": [
+    "Are you sure?",
+    "Are you sure?",
+    "Are you sure?",
+    "Really sure?",
+    "Really, truly, absolutely sure?"
+  ],
+  "dialog.confirm": [
+    "Confirm",
+    "Confirm",
+    "Yes, do it",
+    "Yes, do it",
+    "Yes. Do it."
+  ],
+  "dialog.destructive.note": [
+    "This cannot be undone.",
+    "This cannot be undone.",
+    "There is no undo for this.",
+    "There is no undo for this one.",
+    "There is no undo, no backup and no going back."
+  ],
+  "dialog.escapeHint": [
+    "Press {keys} to cancel.",
+    "Press {keys} to cancel.",
+    "Press {keys} to back out.",
+    "Press {keys} if you have changed your mind.",
+    "Press {keys} if you have thought better of it."
+  ],
+  "tab.farm": [
+    "Farm",
+    "Farm",
+    "The farm",
+    "The farm",
+    "The farm, and everything on it"
+  ],
+  "tab.settings": [
+    "Settings",
+    "Settings",
+    "Settings",
+    "Settings",
+    "Settings"
+  ],
+  "tab.almanac": [
+    "Almanac",
+    "Almanac",
+    "Almanac",
+    "The almanac",
+    "The almanac, keeper of every number"
+  ],
+  "tab.changelog": [
+    "Changelog",
+    "Changelog",
+    "Changelog",
+    "The changelog",
+    "The changelog, honest to a fault"
+  ],
+  "tab.history": [
+    "History",
+    "History",
+    "History",
+    "Your history",
+    "Your history, every last entry of it"
+  ],
+  "tab.surprise": [
+    "Surprise",
+    "Surprise",
+    "Surprise",
+    "A surprise",
+    "A surprise, drawn by hand"
+  ],
+  "tab.ledger": [
+    "Ledger",
+    "Ledger",
+    "Ledger",
+    "The ledger",
+    "The ledger, where the money tells on you"
+  ],
+  "almanac.title": [
+    "Almanac",
+    "Almanac",
+    "The almanac",
+    "The almanac",
+    "The almanac — everything worth knowing"
+  ],
+  "almanac.intro": [
+    "Everything about the farm, kept offline.",
+    "Everything about the farm, kept offline.",
+    "Everything worth knowing about the farm, kept offline and read straight from the game.",
+    "Everything worth knowing about the farm, kept offline and read straight from the game itself.",
+    "Everything worth knowing about the farm, kept offline and read straight from the game itself — not one number retyped by hand."
+  ],
+  "almanac.section.howto": [
+    "How to play",
+    "How to play",
+    "How to play",
+    "How to play",
+    "How to play, in six honest steps"
+  ],
+  "almanac.section.crops": [
+    "Crops",
+    "Crops",
+    "Every crop",
+    "Every crop in the valley",
+    "Every crop in the valley, with its real numbers"
+  ],
+  "almanac.section.tools": [
+    "Tools",
+    "Tools",
+    "Your tools",
+    "The seven things you can hold",
+    "The seven things you can hold, and what each one does"
+  ],
+  "almanac.section.controls": [
+    "Controls",
+    "Controls",
+    "Controls",
+    "Every control",
+    "Every control, keyboard first"
+  ],
+  "almanac.section.seasons": [
+    "Seasons",
+    "Seasons",
+    "The four seasons",
+    "The four seasons",
+    "The four seasons, and what each one asks of you"
+  ],
+  "almanac.section.weather": [
+    "Weather",
+    "Weather",
+    "Weather",
+    "The weather",
+    "The weather, and what it does to your soil"
+  ],
+  "almanac.section.quality": [
+    "Quality",
+    "Quality",
+    "Produce quality",
+    "Produce quality",
+    "Produce quality, and how to earn the good stuff"
+  ],
+  "almanac.section.energy": [
+    "Energy and time",
+    "Energy and time",
+    "Energy and time",
+    "Energy and time",
+    "Energy and time, the only two things you can run out of"
+  ],
+  "almanac.section.money": [
+    "Money",
+    "Money",
+    "Money",
+    "Money",
+    "Money, and where it comes from"
+  ],
+  "almanac.section.accessibility": [
+    "Accessibility",
+    "Accessibility",
+    "Accessibility",
+    "Accessibility",
+    "Accessibility, and how seriously we take it"
+  ],
+  "almanac.howto.1": [
+    "Clear the debris with the axe.",
+    "Clear the debris with the axe.",
+    "Start by clearing the weeds, rocks and logs with the axe.",
+    "Start by clearing the weeds, rocks and logs. That is what the axe is for.",
+    "Start by clearing the weeds, rocks and logs. The axe has been waiting years for this."
+  ],
+  "almanac.howto.2": [
+    "Till the ground with the hoe.",
+    "Till the ground with the hoe.",
+    "Turn the ground over with the hoe.",
+    "Turn the ground over with the hoe until it is dark and open.",
+    "Turn the ground over with the hoe until it is dark, open and breathing."
+  ],
+  "almanac.howto.3": [
+    "Sow a seed that suits the season.",
+    "Sow a seed that suits the season.",
+    "Sow a seed that likes this season.",
+    "Sow a seed that actually likes this season.",
+    "Sow a seed that actually likes this season, or watch it sulk and die."
+  ],
+  "almanac.howto.4": [
+    "Water it every day.",
+    "Water it every day.",
+    "Water it every single day.",
+    "Water it every single day. Plants keep score.",
+    "Water it every single day. Plants keep score, and they hold grudges."
+  ],
+  "almanac.howto.5": [
+    "Sleep to end the day.",
+    "Sleep to end the day.",
+    "Sleep to end the day and let things grow.",
+    "Sleep to end the day. Everything grows while you are out cold.",
+    "Sleep to end the day. The whole valley gets on with growing while you lie there snoring."
+  ],
+  "almanac.howto.6": [
+    "Harvest, then sell at the shop.",
+    "Harvest, then sell at the shop.",
+    "Harvest what is ripe, then sell it at the shop.",
+    "Harvest what is ripe and sell it at the shop, and do it all again.",
+    "Harvest what is ripe, sell it at the shop, and begin the whole beautiful cycle again."
+  ],
+  "almanac.crops.column.name": [
+    "Crop",
+    "Crop",
+    "Crop",
+    "Crop",
+    "Crop"
+  ],
+  "almanac.crops.column.season": [
+    "Season",
+    "Season",
+    "Season",
+    "Season",
+    "Season"
+  ],
+  "almanac.crops.column.seed": [
+    "Seed cost",
+    "Seed cost",
+    "Seed cost",
+    "What the seed costs",
+    "What the seed costs you"
+  ],
+  "almanac.crops.column.sell": [
+    "Sells for",
+    "Sells for",
+    "Sells for",
+    "What it sells for",
+    "What it sells for, at normal quality"
+  ],
+  "almanac.crops.column.grow": [
+    "Growing days",
+    "Growing days",
+    "Days to grow",
+    "Days of watering to grow",
+    "Days of watering before it is ready"
+  ],
+  "almanac.crops.column.regrow": [
+    "Regrows",
+    "Regrows",
+    "Regrows in",
+    "Regrows in",
+    "Regrows in, if it regrows at all"
+  ],
+  "almanac.crops.column.yield": [
+    "Yield",
+    "Yield",
+    "Yield",
+    "How many you get",
+    "How many you get per picking"
+  ],
+  "almanac.crops.value.gold": [
+    "{gold}g",
+    "{gold}g",
+    "{gold}g",
+    "{gold}g",
+    "{gold}g"
+  ],
+  "almanac.crops.value.days": [
+    "{days} days",
+    "{days} days",
+    "{days} days",
+    "{days} days",
+    "{days} days"
+  ],
+  "almanac.crops.value.yield": [
+    "{min} to {max}",
+    "{min} to {max}",
+    "{min} to {max}",
+    "{min} to {max}",
+    "{min} to {max}"
+  ],
+  "almanac.crops.value.once": [
+    "Once only",
+    "Once only",
+    "One picking only",
+    "One picking and it is finished",
+    "One picking and it retires forever"
+  ],
+  "almanac.controls.column.input": [
+    "Key",
+    "Key",
+    "Key",
+    "Key",
+    "Key"
+  ],
+  "almanac.controls.column.action": [
+    "What it does",
+    "What it does",
+    "What it does",
+    "What it does",
+    "What it does, exactly"
+  ],
+  "control.move": [
+    "Walk, and face that way",
+    "Walk, and face that way",
+    "Walk, and turn to face that way",
+    "Walk that way, and turn to face it",
+    "Walk that way, and turn to face it, even when the step is blocked"
+  ],
+  "control.use": [
+    "Use the held tool on the faced tile",
+    "Use the held tool on the faced tile",
+    "Use whatever you are holding on the tile in front",
+    "Use whatever you are holding on the tile in front of you",
+    "Use whatever you are holding on the tile you are staring at"
+  ],
+  "control.tool": [
+    "Pick a tool",
+    "Pick a tool",
+    "Pick a tool",
+    "Pick a tool from the belt",
+    "Pick a tool straight off the belt"
+  ],
+  "control.seed": [
+    "Cycle the selected seed",
+    "Cycle the selected seed",
+    "Cycle through your seeds",
+    "Cycle through the seeds in your bag",
+    "Cycle through every seed rattling in your bag"
+  ],
+  "control.shop": [
+    "Open the shop",
+    "Open the shop",
+    "Open the shop",
+    "Open the shop",
+    "Open the shop and spend recklessly"
+  ],
+  "control.bag": [
+    "Open the bag",
+    "Open the bag",
+    "Open your bag",
+    "Open your bag",
+    "Open your bag and take stock"
+  ],
+  "control.sleep": [
+    "Sleep until morning",
+    "Sleep until morning",
+    "Sleep until morning",
+    "Sleep until morning",
+    "Sleep until morning, and let the valley get on with it"
+  ],
+  "control.help": [
+    "Open help",
+    "Open help",
+    "Open the help",
+    "Open the help",
+    "Open the help, there is no shame in it"
+  ],
+  "control.mute": [
+    "Mute or unmute",
+    "Mute or unmute",
+    "Mute or unmute",
+    "Silence it, or bring it back",
+    "Silence it, or bring the whole valley back"
+  ],
+  "control.close": [
+    "Close the top panel",
+    "Close the top panel",
+    "Close the panel on top",
+    "Close whatever panel is on top",
+    "Close whatever panel is sitting on top"
+  ],
+  "almanac.accessibility.keyboard": [
+    "Every action is reachable from the keyboard. The mouse is optional.",
+    "Every action is reachable from the keyboard. The mouse is optional.",
+    "Every action is reachable from the keyboard — the mouse is entirely optional.",
+    "Every action is reachable from the keyboard. The mouse is entirely optional, and always was.",
+    "Every action is reachable from the keyboard. The mouse is entirely optional, and always was. Unplug it if you like."
+  ],
+  "almanac.accessibility.reader": [
+    "State changes are mirrored into a live region for screen readers.",
+    "State changes are mirrored into a live region for screen readers.",
+    "Anything that changes is mirrored into a live region so a screen reader hears it.",
+    "Anything that changes is mirrored into a live region so a screen reader hears it too.",
+    "Anything that changes is mirrored into a live region, so a screen reader hears every last thing."
+  ],
+  "almanac.accessibility.focus": [
+    "The cursor tile carries a pulsing outline. Position is never colour alone.",
+    "The cursor tile carries a pulsing outline. Position is never shown by colour alone.",
+    "The cursor tile carries a pulsing outline, so position is never shown by colour alone.",
+    "The cursor tile wears a pulsing outline, so position is never shown by colour alone.",
+    "The cursor tile wears a pulsing outline at all times, because position is never, ever shown by colour alone."
+  ],
+  "almanac.accessibility.contrast": [
+    "Text never sits on a background within {ratio} to 1 of it.",
+    "Text never sits on a background within {ratio} to 1 of it.",
+    "Text never sits on a background within {ratio} to 1 of its own colour.",
+    "Text never sits on a background within {ratio} to 1 of its own colour. We checked every pair.",
+    "Text never sits on a background within {ratio} to 1 of its own colour. We checked every single pair."
+  ],
+  "almanac.accessibility.motion": [
+    "The app honours reduced motion, in the game and in the shell.",
+    "The app honours reduced motion, in the game and in the shell.",
+    "Reduced motion is honoured everywhere — in the game and in the shell around it.",
+    "Reduced motion is honoured everywhere, in the game and in the shell around it.",
+    "Reduced motion is honoured everywhere, in the game and in the shell around it, without one sulky exception."
+  ],
+  "search.almanac.label": [
+    "Search the almanac",
+    "Search the almanac",
+    "Search the almanac",
+    "Hunt through the almanac",
+    "Interrogate every page of the almanac"
+  ],
+  "search.almanac.placeholder": [
+    "Search the almanac",
+    "Search the almanac",
+    "Search the almanac",
+    "What do you want to know?",
+    "Ask it anything about the valley"
+  ],
+  "search.crops.label": [
+    "Search crops",
+    "Search crops",
+    "Search every crop",
+    "Hunt through every crop",
+    "Interrogate all of the crops at once"
+  ],
+  "search.crops.placeholder": [
+    "Search crops",
+    "Search crops",
+    "Search crops",
+    "Which crop?",
+    "Which crop are you after?"
+  ],
+  "changelog.title": [
+    "Changelog",
+    "Changelog",
+    "Changelog",
+    "The changelog",
+    "The changelog, in full"
+  ],
+  "changelog.intro": [
+    "Bundled at build time. Nothing is fetched.",
+    "Bundled at build time. Nothing is fetched.",
+    "Bundled into the app at build time — nothing is fetched from anywhere.",
+    "Bundled into the app at build time. Nothing is fetched from anywhere, ever.",
+    "Bundled into the app at build time. Nothing is fetched from anywhere, ever, not even a comma."
+  ],
+  "changelog.version": [
+    "Version {version}",
+    "Version {version}",
+    "Version {version}",
+    "Version {version}",
+    "Version {version}, for the record"
+  ],
+  "changelog.released": [
+    "Released {date}",
+    "Released {date}",
+    "Released on {date}",
+    "Released on {date}",
+    "Released on {date}, to great acclaim"
+  ],
+  "changelog.empty": [
+    "The changelog is empty.",
+    "The changelog is empty.",
+    "There is nothing in the changelog yet.",
+    "The changelog has nothing to say yet.",
+    "The changelog has nothing to say. Give it time."
+  ],
+  "search.changelog.label": [
+    "Search the changelog",
+    "Search the changelog",
+    "Search the changelog",
+    "Hunt through the changelog",
+    "Interrogate every line of the changelog"
+  ],
+  "search.changelog.placeholder": [
+    "Search the changelog",
+    "Search the changelog",
+    "Search the changelog",
+    "What changed?",
+    "What exactly changed, and when?"
+  ],
+  "history.title": [
+    "History",
+    "History",
+    "History",
+    "Your history",
+    "Your history, kept honestly"
+  ],
+  "history.desc": [
+    "Local only, and bounded to {max} entries.",
+    "Local only, and bounded to {max} entries.",
+    "Kept on this computer only, and bounded to {max} entries.",
+    "Kept on this computer only, bounded to {max} entries, oldest first out.",
+    "Kept on this computer only, bounded to {max} entries, and the oldest is quietly shown the door."
+  ],
+  "history.empty": [
+    "Nothing has happened yet.",
+    "Nothing has happened yet.",
+    "Nothing has happened yet.",
+    "Nothing has happened yet. Go and do something.",
+    "Nothing has happened yet. Go on, do something worth recording."
+  ],
+  "history.count": [
+    "{count} of {total} entries",
+    "{count} of {total} entries",
+    "{count} of {total} entries",
+    "{count} of {total} entries shown",
+    "{count} of {total} entries, carefully selected"
+  ],
+  "history.at": [
+    "{time}",
+    "{time}",
+    "{time}",
+    "{time}",
+    "{time}"
+  ],
+  "history.kind.action": [
+    "Farm action",
+    "Farm action",
+    "Farm action",
+    "Something you did on the farm",
+    "Something you did out on the farm"
+  ],
+  "history.kind.purchase": [
+    "Purchase",
+    "Purchase",
+    "Purchase",
+    "Money going out",
+    "Money leaving your purse"
+  ],
+  "history.kind.sale": [
+    "Sale",
+    "Sale",
+    "Sale",
+    "Money coming in",
+    "Money arriving in your purse"
+  ],
+  "history.kind.day": [
+    "Day",
+    "Day",
+    "A day passing",
+    "A day passing",
+    "Another day gone by"
+  ],
+  "history.kind.setting": [
+    "Setting",
+    "Setting",
+    "Setting changed",
+    "A setting you changed",
+    "A setting you changed, for better or worse"
+  ],
+  "history.kind.navigation": [
+    "Navigation",
+    "Navigation",
+    "Moving about",
+    "Moving about the app",
+    "Wandering about the app"
+  ],
+  "history.kind.export": [
+    "Export",
+    "Export",
+    "Export",
+    "Data taken out",
+    "Data packed up and taken out"
+  ],
+  "history.kind.error": [
+    "Error",
+    "Error",
+    "Something went wrong",
+    "Something went wrong",
+    "Something went badly wrong"
+  ],
+  "history.clear": [
+    "Clear the history",
+    "Clear the history",
+    "Clear the history",
+    "Wipe the history",
+    "Wipe the history and forget it all"
+  ],
+  "history.clear.confirm.title": [
+    "Clear the history?",
+    "Clear the history?",
+    "Clear the history?",
+    "Really wipe the history?",
+    "Truly wipe every trace of the past?"
+  ],
+  "history.clear.confirm.body": [
+    "{count} entries will be deleted.",
+    "{count} entries will be deleted.",
+    "{count} entries will be deleted.",
+    "{count} entries go in the bin.",
+    "{count} entries go in the bin, never to be seen again."
+  ],
+  "history.cleared": [
+    "Cleared {count} entries.",
+    "Cleared {count} entries.",
+    "Cleared {count} entries.",
+    "{count} entries, gone.",
+    "{count} entries, gone without a trace."
+  ],
+  "history.filter.kind": [
+    "Filter by kind",
+    "Filter by kind",
+    "Filter by kind",
+    "Show one kind only",
+    "Show one kind only, and hide the rest"
+  ],
+  "history.filter.all": [
+    "All kinds",
+    "All kinds",
+    "Every kind",
+    "Every kind at once",
+    "Every kind at once, no filtering"
+  ],
+  "search.history.label": [
+    "Search the history",
+    "Search the history",
+    "Search your history",
+    "Hunt through your history",
+    "Interrogate every entry in your history"
+  ],
+  "search.history.placeholder": [
+    "Search history",
+    "Search history",
+    "Search history",
+    "What are you looking for?",
+    "What are you trying to remember?"
+  ],
+  "export.title": [
+    "Export",
+    "Export",
+    "Export",
+    "Export your data",
+    "Export your data, all of it"
+  ],
+  "export.format.json": [
+    "JSON",
+    "JSON",
+    "JSON",
+    "JSON, for machines",
+    "JSON, for machines and the curious"
+  ],
+  "export.format.csv": [
+    "CSV",
+    "CSV",
+    "CSV",
+    "CSV, for spreadsheets",
+    "CSV, for spreadsheets and long evenings"
+  ],
+  "export.format.markdown": [
+    "Markdown",
+    "Markdown",
+    "Markdown",
+    "Markdown, for reading",
+    "Markdown, for actual human reading"
+  ],
+  "export.target.save": [
+    "The farm save",
+    "The farm save",
+    "The farm save",
+    "The farm save",
+    "The farm save, the whole valley in one file"
+  ],
+  "export.target.settings": [
+    "Settings",
+    "Settings",
+    "Your settings",
+    "Your settings",
+    "Your settings, every last toggle"
+  ],
+  "export.target.appearance": [
+    "Appearance",
+    "Appearance",
+    "Your appearance changes",
+    "Your appearance changes",
+    "Your appearance changes, every restyled pixel"
+  ],
+  "export.target.history": [
+    "History",
+    "History",
+    "Your history",
+    "Your history",
+    "Your history, warts and all"
+  ],
+  "export.target.all": [
+    "Everything",
+    "Everything",
+    "Everything",
+    "The whole lot",
+    "The whole lot, in one honest file"
+  ],
+  "export.download": [
+    "Download",
+    "Download",
+    "Download it",
+    "Save it to a file",
+    "Save it to a file and keep it safe"
+  ],
+  "export.copy": [
+    "Copy to the clipboard",
+    "Copy to the clipboard",
+    "Copy it to the clipboard",
+    "Copy the whole thing",
+    "Copy the whole thing to your clipboard"
+  ],
+  "export.size": [
+    "{bytes} bytes",
+    "{bytes} bytes",
+    "{bytes} bytes",
+    "{bytes} bytes",
+    "{bytes} bytes, not one more"
+  ],
+  "export.done": [
+    "Saved {filename}.",
+    "Saved {filename}.",
+    "Saved {filename}.",
+    "Saved as {filename}. Look after it.",
+    "Saved as {filename}. Guard it with your life."
+  ],
+  "export.failed": [
+    "Export failed: {error}",
+    "Export failed: {error}",
+    "The export did not work: {error}",
+    "The export fell over: {error}",
+    "The export fell over in spectacular fashion: {error}"
+  ],
+  "export.empty": [
+    "There is nothing to export.",
+    "There is nothing to export.",
+    "There is nothing here to export.",
+    "There is nothing here worth exporting.",
+    "There is nothing here worth exporting. Come back later."
+  ],
+  "import.title": [
+    "Import",
+    "Import",
+    "Import",
+    "Import data",
+    "Import data from a file you trust"
+  ],
+  "import.paste": [
+    "Paste the exported text",
+    "Paste the exported text",
+    "Paste the exported text here",
+    "Paste what you exported earlier",
+    "Paste what you exported earlier, in full"
+  ],
+  "import.confirm.title": [
+    "Import and replace?",
+    "Import and replace?",
+    "Import and replace what is here?",
+    "Import this and replace what is here?",
+    "Import this and replace everything currently here?"
+  ],
+  "import.confirm.body": [
+    "{count} records will be replaced.",
+    "{count} records will be replaced.",
+    "{count} records will be replaced.",
+    "{count} records get overwritten.",
+    "{count} records get overwritten and there is no undo."
+  ],
+  "import.done": [
+    "Imported {count} records.",
+    "Imported {count} records.",
+    "Imported {count} records.",
+    "{count} records are in.",
+    "{count} records have arrived safely."
+  ],
+  "import.invalid": [
+    "That file cannot be read: {error}",
+    "That file cannot be read: {error}",
+    "That file cannot be read: {error}",
+    "That file makes no sense: {error}",
+    "That file makes no sense whatsoever: {error}"
+  ],
+  "surprise.title": [
+    "A small surprise",
+    "A small surprise",
+    "A small surprise",
+    "A small surprise",
+    "A small surprise, drawn by hand"
+  ],
+  "surprise.enable": [
+    "Show the surprise",
+    "Show the surprise",
+    "Show me the surprise",
+    "Go on, show me",
+    "Go on then, show me the surprise"
+  ],
+  "surprise.disable": [
+    "Hide the surprise",
+    "Hide the surprise",
+    "Put the surprise away",
+    "Put the surprise away",
+    "Put the surprise away, for now"
+  ],
+  "surprise.desc": [
+    "Every piece here is drawn as pixels. No photographs, and no network request.",
+    "Every piece here is drawn as pixels. No photographs, and no network request.",
+    "Every piece here is drawn as pixels — no photographs, and not one network request.",
+    "Every piece here is drawn as pixels. No photographs, no downloads, not one network request.",
+    "Every piece here is drawn as pixels, by hand. No photographs, no downloads, not one network request, not ever."
+  ],
+  "surprise.item.hargow": [
+    "Har gow",
+    "Har gow",
+    "Har gow",
+    "Har gow, four pleats and proud of it",
+    "Har gow, pleated four times because anything less is an insult"
+  ],
+  "surprise.item.siumai": [
+    "Siu mai",
+    "Siu mai",
+    "Siu mai",
+    "Siu mai, topped and open",
+    "Siu mai, standing open-topped and utterly unbothered"
+  ],
+  "surprise.item.charsiubao": [
+    "Char siu bao",
+    "Char siu bao",
+    "Char siu bao",
+    "Char siu bao, split at the top",
+    "Char siu bao, split at the top and steaming quietly"
+  ],
+  "surprise.item.cheungfun": [
+    "Cheung fun",
+    "Cheung fun",
+    "Cheung fun",
+    "Cheung fun, rolled and glossy",
+    "Cheung fun, rolled, glossy and swimming in sweet soy"
+  ],
+  "surprise.item.eggtart": [
+    "Egg tart",
+    "Egg tart",
+    "Egg tart",
+    "Egg tart, still warm",
+    "Egg tart, still warm, and worth burning your mouth for"
+  ],
+  "crop.parsnip": [
+    "Parsnip",
+    "Parsnip",
+    "Parsnip",
+    "Parsnip",
+    "Parsnip"
+  ],
+  "crop.tulip": [
+    "Tulip",
+    "Tulip",
+    "Tulip",
+    "Tulip",
+    "Tulip"
+  ],
+  "crop.cabbage": [
+    "Cabbage",
+    "Cabbage",
+    "Cabbage",
+    "Cabbage",
+    "Cabbage"
+  ],
+  "crop.strawberry": [
+    "Strawberry",
+    "Strawberry",
+    "Strawberry",
+    "Strawberry",
+    "Strawberry"
+  ],
+  "crop.pepper": [
+    "Pepper",
+    "Pepper",
+    "Pepper",
+    "Pepper",
+    "Pepper"
+  ],
+  "crop.tomato": [
+    "Tomato",
+    "Tomato",
+    "Tomato",
+    "Tomato",
+    "Tomato"
+  ],
+  "crop.corn": [
+    "Corn",
+    "Corn",
+    "Corn",
+    "Corn",
+    "Corn"
+  ],
+  "crop.melon": [
+    "Melon",
+    "Melon",
+    "Melon",
+    "Melon",
+    "Melon"
+  ],
+  "crop.barley": [
+    "Barley",
+    "Barley",
+    "Barley",
+    "Barley",
+    "Barley"
+  ],
+  "crop.beet": [
+    "Beet",
+    "Beet",
+    "Beet",
+    "Beet",
+    "Beet"
+  ],
+  "crop.grape": [
+    "Grape",
+    "Grape",
+    "Grape",
+    "Grape",
+    "Grape"
+  ],
+  "crop.pumpkin": [
+    "Pumpkin",
+    "Pumpkin",
+    "Pumpkin",
+    "Pumpkin",
+    "Pumpkin"
+  ],
+  "crop.snowdrop": [
+    "Snowdrop",
+    "Snowdrop",
+    "Snowdrop",
+    "Snowdrop",
+    "Snowdrop"
+  ],
+  "crop.winterroot": [
+    "Winterroot",
+    "Winterroot",
+    "Winterroot",
+    "Winterroot",
+    "Winterroot"
+  ],
+  "crop.frostcap": [
+    "Frostcap",
+    "Frostcap",
+    "Frostcap",
+    "Frostcap",
+    "Frostcap"
+  ],
+  "crop.unknown": [
+    "Unknown crop",
+    "Unknown crop",
+    "Unknown crop",
+    "Unknown crop",
+    "Unknown crop"
+  ],
+  "season.spring": [
+    "Spring",
+    "Spring",
+    "Spring",
+    "Spring",
+    "Spring"
+  ],
+  "season.summer": [
+    "Summer",
+    "Summer",
+    "Summer",
+    "Summer",
+    "Summer"
+  ],
+  "season.fall": [
+    "Fall",
+    "Fall",
+    "Fall",
+    "Fall",
+    "Fall"
+  ],
+  "season.winter": [
+    "Winter",
+    "Winter",
+    "Winter",
+    "Winter",
+    "Winter"
+  ],
+  "weather.clear": [
+    "Clear",
+    "Clear",
+    "Clear",
+    "Clear",
+    "Clear"
+  ],
+  "weather.rain": [
+    "Rain",
+    "Rain",
+    "Rain",
+    "Rain",
+    "Rain"
+  ],
+  "weather.storm": [
+    "Storm",
+    "Storm",
+    "Storm",
+    "Storm",
+    "Storm"
+  ],
+  "weather.snow": [
+    "Snow",
+    "Snow",
+    "Snow",
+    "Snow",
+    "Snow"
+  ],
+  "quality.normal": [
+    "Normal",
+    "Normal",
+    "Normal",
+    "Normal",
+    "Normal"
+  ],
+  "quality.silver": [
+    "Silver",
+    "Silver",
+    "Silver",
+    "Silver",
+    "Silver"
+  ],
+  "quality.gold": [
+    "Gold",
+    "Gold",
+    "Gold",
+    "Gold",
+    "Gold"
+  ],
+  "tool.hoe": [
+    "Hoe",
+    "Hoe",
+    "Hoe",
+    "Hoe",
+    "Hoe"
+  ],
+  "tool.can": [
+    "Watering can",
+    "Watering can",
+    "Watering can",
+    "Watering can",
+    "Watering can"
+  ],
+  "tool.seeds": [
+    "Seeds",
+    "Seeds",
+    "Seeds",
+    "Seeds",
+    "Seeds"
+  ],
+  "tool.hand": [
+    "Hand",
+    "Hand",
+    "Hand",
+    "Hand",
+    "Hand"
+  ],
+  "tool.axe": [
+    "Axe",
+    "Axe",
+    "Axe",
+    "Axe",
+    "Axe"
+  ],
+  "tool.sprinkler": [
+    "Sprinkler",
+    "Sprinkler",
+    "Sprinkler",
+    "Sprinkler",
+    "Sprinkler"
+  ],
+  "tool.fertilizer": [
+    "Fertilizer",
+    "Fertilizer",
+    "Fertilizer",
+    "Fertilizer",
+    "Fertilizer"
+  ],
+  "tool.hoe.desc": [
+    "Turns grass into soil.",
+    "Turns grass into soil.",
+    "Turns plain grass into workable soil.",
+    "Turns plain grass into soil worth sowing.",
+    "Turns idle grass into dark, open, sowable soil."
+  ],
+  "tool.can.desc": [
+    "Waters tilled soil.",
+    "Waters tilled soil.",
+    "Waters tilled soil, as far as it reaches.",
+    "Waters tilled soil, as far as its reach goes.",
+    "Waters every tilled tile it can reach, and looks good doing it."
+  ],
+  "tool.seeds.desc": [
+    "Sows the selected seed.",
+    "Sows the selected seed.",
+    "Sows whichever seed you have selected.",
+    "Sows whichever seed you have picked out.",
+    "Sows whichever seed you have picked out, and hopes for the best."
+  ],
+  "tool.hand.desc": [
+    "Picks ripe crops.",
+    "Picks ripe crops.",
+    "Picks anything that is ripe.",
+    "Picks anything ripe, and pulls up anything dead.",
+    "Picks anything ripe, and hauls up anything that gave up and died."
+  ],
+  "tool.axe.desc": [
+    "Clears weeds, rocks and logs.",
+    "Clears weeds, rocks and logs.",
+    "Clears weeds, rocks and logs off the ground.",
+    "Clears weeds, rocks and logs, at a price in energy.",
+    "Clears weeds, rocks and logs — and charges your back for the privilege."
+  ],
+  "tool.sprinkler.desc": [
+    "Waters its neighbours each night.",
+    "Waters its neighbours each night.",
+    "Waters the tiles around it every night.",
+    "Waters the tiles around it every night, while you sleep.",
+    "Waters the tiles around it every night while you snore, asking nothing in return."
+  ],
+  "tool.fertilizer.desc": [
+    "Enriches tilled soil before sowing.",
+    "Enriches tilled soil before sowing.",
+    "Enriches tilled soil, before anything is sown in it.",
+    "Enriches tilled soil before you sow — faster growth, better quality.",
+    "Enriches tilled soil before you sow: faster growth, better quality, smugger farmer."
+  ],
+  "good.sprinkler": [
+    "Sprinkler",
+    "Sprinkler",
+    "Sprinkler",
+    "Sprinkler",
+    "Sprinkler"
+  ],
+  "good.fertilizer": [
+    "Fertilizer",
+    "Fertilizer",
+    "Fertilizer",
+    "Fertilizer",
+    "Fertilizer"
+  ],
+  "ground.grass": [
+    "Grass",
+    "Grass",
+    "Grass",
+    "Grass",
+    "Grass"
+  ],
+  "ground.soil": [
+    "Tilled soil",
+    "Tilled soil",
+    "Tilled soil",
+    "Tilled soil",
+    "Tilled soil"
+  ],
+  "ground.weeds": [
+    "Weeds",
+    "Weeds",
+    "Weeds",
+    "Weeds",
+    "Weeds"
+  ],
+  "ground.rock": [
+    "Rock",
+    "Rock",
+    "Rock",
+    "Rock",
+    "Rock"
+  ],
+  "ground.log": [
+    "Log",
+    "Log",
+    "Log",
+    "Log",
+    "Log"
+  ],
+  "ground.water": [
+    "Pond",
+    "Pond",
+    "Pond",
+    "Pond",
+    "Pond"
+  ],
+  "ground.path": [
+    "Path",
+    "Path",
+    "Path",
+    "Path",
+    "Path"
+  ],
+  "item.seed": [
+    "{crop} seeds",
+    "{crop} seeds",
+    "{crop} seeds",
+    "{crop} seeds",
+    "{crop} seeds"
+  ],
+  "item.produce": [
+    "{crop}",
+    "{crop}",
+    "{crop}",
+    "{crop}",
+    "{crop}"
+  ],
+  "item.produce.quality": [
+    "{quality} {crop}",
+    "{quality} {crop}",
+    "{quality} {crop}",
+    "{quality} {crop}",
+    "{quality} {crop}"
+  ],
+  "label.gold": [
+    "{gold}g",
+    "{gold}g",
+    "{gold}g",
+    "{gold}g",
+    "{gold}g"
+  ],
+  "label.energy": [
+    "Energy {energy} of {max}",
+    "Energy {energy} of {max}",
+    "Energy {energy} of {max}",
+    "Energy {energy} of {max}",
+    "Energy {energy} of {max}"
+  ],
+  "label.date": [
+    "{season} {day}, year {year}",
+    "{season} {day}, year {year}",
+    "{season} {day}, year {year}",
+    "{season} {day}, year {year}",
+    "{season} {day}, year {year}"
+  ],
+  "label.time": [
+    "{time}",
+    "{time}",
+    "{time}",
+    "{time}",
+    "{time}"
+  ],
+  "label.count": [
+    "{count} × {item}",
+    "{count} × {item}",
+    "{count} × {item}",
+    "{count} × {item}",
+    "{count} × {item}"
+  ],
+  "game.guard.exhausted": [
+    "You cannot act. Go to bed.",
+    "You can barely stand. Go to bed.",
+    "You can barely stand. Get yourself to bed.",
+    "You can barely stand up. Bed. Now.",
+    "You are swaying like a scarecrow in a gale. Bed. Immediately."
+  ],
+  "game.guard.offMap": [
+    "There is nothing there.",
+    "There is nothing over there.",
+    "There is nothing over there.",
+    "There is nothing over there at all.",
+    "There is nothing over there. Not a thing. You are gesturing at the void."
+  ],
+  "game.guard.tired": [
+    "You do not have the energy.",
+    "You are too tired for that.",
+    "You are too tired for that.",
+    "You are far too tired for that.",
+    "You are far too tired for that, and your arms have filed a complaint."
+  ],
+  "game.debris.weeds": [
+    "weeds",
+    "weeds",
+    "weeds",
+    "weeds",
+    "weeds"
+  ],
+  "game.debris.rock": [
+    "rock",
+    "rock",
+    "rock",
+    "rock",
+    "rock"
+  ],
+  "game.debris.log": [
+    "log",
+    "log",
+    "log",
+    "log",
+    "log"
+  ],
+  "game.debris.other": [
+    "debris",
+    "debris",
+    "debris",
+    "debris",
+    "debris"
+  ],
+  "game.clear.first": [
+    "Clear the {debris} first.",
+    "Clear the {debris} first.",
+    "Clear the {debris} out of the way first.",
+    "Clear the {debris} first — it is in the way.",
+    "Clear the {debris} first. It is standing there like it pays rent."
+  ],
+  "game.clear.nothing": [
+    "There is nothing to clear there.",
+    "There is nothing to clear there.",
+    "There is nothing to clear there.",
+    "There is nothing there to clear.",
+    "There is nothing there to clear. You are swinging at fresh air."
+  ],
+  "game.clear.weeds": [
+    "The weeds are cleared.",
+    "The weeds come up easily.",
+    "The weeds come up easily.",
+    "The weeds come up without a fight.",
+    "The weeds come up without a fight, which is frankly disappointing."
+  ],
+  "game.clear.rock": [
+    "The rock is broken up.",
+    "The rock breaks apart.",
+    "The rock breaks apart.",
+    "The rock gives up and breaks apart.",
+    "The rock holds out for one proud second, then breaks apart."
+  ],
+  "game.clear.log": [
+    "The log is split and hauled off.",
+    "The log splits and is hauled off.",
+    "The log splits and is hauled off.",
+    "The log splits with a crack and is hauled off.",
+    "The log splits with a crack that echoes down the valley, then is hauled off."
+  ],
+  "game.till.already": [
+    "This soil is already turned.",
+    "This soil is already turned.",
+    "This soil is already turned over.",
+    "This soil is already turned. Twice is not better.",
+    "This soil is already turned. Turning it twice impresses nobody."
+  ],
+  "game.till.pond": [
+    "You cannot till the pond.",
+    "You cannot till the pond.",
+    "You cannot till the pond.",
+    "You cannot till a pond, no matter how you feel about it.",
+    "You cannot till a pond. Water has been refusing hoes since the dawn of time."
+  ],
+  "game.till.path": [
+    "The path is packed too hard.",
+    "The path is packed too hard.",
+    "The path is packed far too hard.",
+    "The path is packed far too hard for that.",
+    "The path is packed harder than your resolve. It wins."
+  ],
+  "game.till.ok": [
+    "The soil is turned.",
+    "The earth turns over.",
+    "The earth turns over, dark and ready.",
+    "The earth rolls over, dark and ready for a seed.",
+    "The earth rolls over and shows its dark belly, ready and waiting for a seed."
+  ],
+  "game.water.noSoil": [
+    "There is no tilled soil to water.",
+    "There is no tilled soil to water.",
+    "There is no tilled soil here to water.",
+    "There is no tilled soil here to water at all.",
+    "There is no tilled soil here. You are watering the concept of gardening."
+  ],
+  "game.water.already": [
+    "This soil is already watered.",
+    "This soil is already watered.",
+    "This soil is already watered.",
+    "This soil is already watered. It is quite full.",
+    "This soil is already watered. It is full, thank you, and slightly embarrassed."
+  ],
+  "game.water.ok": [
+    "The soil is watered.",
+    "The soil drinks it up.",
+    "The soil drinks it up.",
+    "The soil drinks it up greedily.",
+    "The soil drinks it up like it has been waiting all week for that."
+  ],
+  "game.water.many": [
+    "Watered {count} tiles.",
+    "Watered {count} tiles.",
+    "Watered {count} tiles in one go.",
+    "Watered {count} tiles in one sweep. Efficient.",
+    "Watered {count} tiles in a single glorious sweep. The can is thrilled."
+  ],
+  "game.sow.noSuchSeed": [
+    "You have no such seed.",
+    "You have no such seed.",
+    "You have no such seed.",
+    "You have no such seed on you.",
+    "You have no such seed. You checked twice. It is not there."
+  ],
+  "game.sow.tillFirst": [
+    "Till the ground first.",
+    "Till the ground first.",
+    "Till the ground first.",
+    "Till the ground first — seeds are fussy.",
+    "Till the ground first. Seeds are fussy and they will not settle for grass."
+  ],
+  "game.sow.badGround": [
+    "Seeds will not take there.",
+    "Seeds will not take there.",
+    "Seeds will not take there.",
+    "Seeds will not take there, however you plant them.",
+    "Seeds will not take there, and no amount of encouragement will change that."
+  ],
+  "game.sow.occupied": [
+    "Something is already growing here.",
+    "Something is already growing here.",
+    "Something is already growing here.",
+    "Something is already growing here, thank you.",
+    "Something is already growing here and it was here first."
+  ],
+  "game.sow.noSeeds": [
+    "No {crop} seeds in the bag.",
+    "No {crop} seeds in the bag.",
+    "No {crop} seeds in the bag.",
+    "Not one {crop} seed in the bag.",
+    "Not one {crop} seed in the bag. The bag is quite sure."
+  ],
+  "game.sow.outOfSeason": [
+    "{crop} will not grow in {season}.",
+    "{crop} will not grow in {season}.",
+    "{crop} will not grow in {season}.",
+    "{crop} refuses to grow in {season}.",
+    "{crop} flatly refuses to grow in {season}, and it will not be argued with."
+  ],
+  "game.sow.ok": [
+    "{crop} sown.",
+    "{crop} sown.",
+    "{crop} is in the ground.",
+    "{crop} is in the ground. Now leave it alone.",
+    "{crop} is in the ground and already plotting its future."
+  ],
+  "game.harvest.useAxe": [
+    "Use the axe on the {debris}.",
+    "Use the axe on the {debris}.",
+    "Use the axe on the {debris}.",
+    "That is a job for the axe — the {debris} is in the way.",
+    "Hands are no use here. The {debris} wants the axe, and it wants it now."
+  ],
+  "game.harvest.nothing": [
+    "There is nothing to pick here.",
+    "There is nothing to pick here.",
+    "There is nothing to pick here.",
+    "There is nothing here worth picking.",
+    "There is nothing here to pick. Your hand closes on air."
+  ],
+  "game.harvest.notReady": [
+    "The {crop} is not ready yet.",
+    "The {crop} is not ready yet.",
+    "The {crop} is not ready yet.",
+    "The {crop} is not ready yet. Patience.",
+    "The {crop} is not ready yet, and staring at it will not help."
+  ],
+  "game.harvest.withered": [
+    "You pull up the withered {crop}.",
+    "You pull up the withered {crop}.",
+    "You pull up the withered {crop}.",
+    "You pull up the withered {crop}. It happens.",
+    "You pull up the withered {crop} and hold a short, dignified funeral."
+  ],
+  "game.harvest.ok": [
+    "Picked {count} {crop}.",
+    "Picked {count} {crop}.",
+    "Picked {count} {crop}.",
+    "Picked {count} {crop}. Not bad at all.",
+    "Picked {count} {crop}. The bag grows heavy and you grow proud."
+  ],
+  "game.harvest.okQuality": [
+    "Picked {count} {crop}, {quality} quality.",
+    "Picked {count} {crop}, {quality} quality.",
+    "Picked {count} {crop} — {quality} quality, no less.",
+    "Picked {count} {crop} at {quality} quality. Look at you.",
+    "Picked {count} {crop} at {quality} quality. Somewhere, a judge is weeping."
+  ],
+  "game.harvest.okRegrow": [
+    "Picked {count} {crop}. It will bear again.",
+    "Picked {count} {crop}. It will bear again.",
+    "Picked {count} {crop}, and it will bear again.",
+    "Picked {count} {crop}, and it is already planning the next batch.",
+    "Picked {count} {crop}, and the plant is already planning its next performance."
+  ],
+  "game.harvest.okQualityRegrow": [
+    "Picked {count} {crop}, {quality} quality. It will bear again.",
+    "Picked {count} {crop}, {quality} quality. It will bear again.",
+    "Picked {count} {crop} at {quality} quality, and it will bear again.",
+    "Picked {count} {crop} at {quality} quality, and it is already planning the next batch.",
+    "Picked {count} {crop} at {quality} quality, and the plant is already planning an encore."
+  ],
+  "game.sprinkler.none": [
+    "No sprinklers in the bag.",
+    "No sprinklers in the bag.",
+    "No sprinklers in the bag.",
+    "Not one sprinkler in the bag.",
+    "Not one sprinkler in the bag. They are four hundred gold each, after all."
+  ],
+  "game.sprinkler.already": [
+    "A sprinkler already stands here.",
+    "A sprinkler already stands here.",
+    "A sprinkler already stands here.",
+    "A sprinkler already stands here, doing its job.",
+    "A sprinkler already stands here, doing its job, and it does not want a colleague."
+  ],
+  "game.sprinkler.pond": [
+    "It would sink in the pond.",
+    "It would sink in the pond.",
+    "It would sink straight into the pond.",
+    "It would sink straight into the pond, which defeats the purpose.",
+    "It would sink straight into the pond, where it would water fish. Fish do not need watering."
+  ],
+  "game.sprinkler.occupied": [
+    "Something is growing there already.",
+    "Something is growing there already.",
+    "Something is growing there already.",
+    "Something is growing there already — find another tile.",
+    "Something is growing there already. Find it another home."
+  ],
+  "game.sprinkler.ok": [
+    "The sprinkler will water its neighbours.",
+    "The sprinkler will water its neighbours.",
+    "The sprinkler will water its neighbours every night.",
+    "The sprinkler will water its neighbours every night while you sleep.",
+    "The sprinkler takes its post and will water its neighbours nightly, forever, without complaint."
+  ],
+  "game.fertilize.none": [
+    "No fertilizer in the bag.",
+    "No fertilizer in the bag.",
+    "No fertilizer in the bag.",
+    "Not a scrap of fertilizer in the bag.",
+    "Not a scrap of fertilizer in the bag. The shop would love to help."
+  ],
+  "game.fertilize.needSoil": [
+    "Fertilizer only helps tilled soil.",
+    "Fertilizer only helps tilled soil.",
+    "Fertilizer only helps tilled soil.",
+    "Fertilizer only helps tilled soil. Turn it over first.",
+    "Fertilizer only helps tilled soil. Grass is beyond even its powers."
+  ],
+  "game.fertilize.beforeSow": [
+    "Feed the soil before you sow it.",
+    "Feed the soil before you sow it.",
+    "Feed the soil before you sow it.",
+    "Feed the soil before you sow it, not after.",
+    "Feed the soil before you sow it. Afterwards is far too late, as usual."
+  ],
+  "game.fertilize.already": [
+    "This soil is already rich.",
+    "This soil is already rich.",
+    "This soil is already rich.",
+    "This soil is already rich enough.",
+    "This soil is already rich enough to retire on."
+  ],
+  "game.fertilize.ok": [
+    "The soil is dark and rich.",
+    "The soil is dark and rich.",
+    "The soil turns dark and rich.",
+    "The soil turns dark and rich. Something good will come of this.",
+    "The soil turns dark and rich as chocolate cake. Great things are coming."
+  ],
+  "game.tool.pickSeed": [
+    "Select a seed first with {keys}.",
+    "Pick a seed first with {keys}.",
+    "Pick a seed first — press {keys}.",
+    "Pick a seed first. That is what {keys} is for.",
+    "Pick a seed first. Press {keys}, unless you meant to plant your own optimism."
+  ],
+  "game.tool.nothing": [
+    "Nothing happens.",
+    "Nothing happens.",
+    "Nothing happens.",
+    "Nothing happens at all.",
+    "Nothing happens. Somewhere, a cricket coughs."
+  ],
+  "game.day.title": [
+    "{date}",
+    "{date}",
+    "{date}",
+    "{date}",
+    "{date}"
+  ],
+  "game.day.weather": [
+    "Overnight: {weather}.",
+    "Overnight: {weather}.",
+    "Overnight it was {weather}.",
+    "Overnight it was {weather}.",
+    "The night brought {weather}, and the valley took it as it came."
+  ],
+  "game.day.forecast": [
+    "Tomorrow: {weather}.",
+    "Tomorrow: {weather}.",
+    "Tomorrow looks like {weather}.",
+    "Tomorrow is shaping up to be {weather}.",
+    "Tomorrow, if the sky is to be believed, will be {weather}."
+  ],
+  "game.day.watered": [
+    "{count} tiles were watered.",
+    "{count} tiles were watered.",
+    "{count} tiles were watered.",
+    "{count} tiles went to bed wet.",
+    "{count} tiles went to bed properly soaked, and slept well."
+  ],
+  "game.day.grew": [
+    "{count} plants grew.",
+    "{count} plants grew.",
+    "{count} plants put on some growth.",
+    "{count} plants put on some growth overnight.",
+    "{count} plants stretched, yawned and grew a little in the night."
+  ],
+  "game.day.ripened": [
+    "{count} are ready to pick.",
+    "{count} are ready to pick.",
+    "{count} are ripe and ready to pick.",
+    "{count} are ripe and waiting for you.",
+    "{count} are ripe, gleaming, and waiting for you to notice."
+  ],
+  "game.day.withered": [
+    "{count} withered.",
+    "{count} withered.",
+    "{count} withered from thirst.",
+    "{count} withered from thirst. Water them tomorrow.",
+    "{count} withered from thirst overnight. They died believing in you."
+  ],
+  "game.day.outOfSeason": [
+    "{count} crops could not survive the change of season.",
+    "{count} crops could not survive the change of season.",
+    "{count} crops could not survive the change of season.",
+    "{count} crops could not survive the turn of the season and were cleared.",
+    "{count} crops could not survive the turn of the season. The calendar shows no mercy."
+  ],
+  "game.day.seasonChanged": [
+    "{season} has begun.",
+    "{season} has begun.",
+    "{season} has begun.",
+    "{season} has arrived. Everything changes.",
+    "{season} sweeps into the valley and changes absolutely everything."
+  ],
+  "game.day.passedOut": [
+    "You passed out and were carried home. {gold}g was taken for the trouble.",
+    "You passed out and were carried home. {gold}g was taken for the trouble.",
+    "You passed out and someone carried you home. It cost you {gold}g.",
+    "You passed out and someone carried you home, then charged you {gold}g for it.",
+    "You keeled over in the dirt and were carried home like a sack of parsnips. The bill came to {gold}g."
+  ],
+  "game.day.quiet": [
+    "Nothing much happened.",
+    "Nothing much happened overnight.",
+    "A quiet night. Nothing much happened.",
+    "A quiet night. Nothing much happened at all.",
+    "A quiet night. Nothing happened, and that is its own kind of blessing."
+  ],
+  "shop.buy.atLeastOne": [
+    "Buy at least one.",
+    "Buy at least one.",
+    "Buy at least one.",
+    "Buy at least one, or buy none at all.",
+    "Buy at least one. Buying zero of something is a philosophy, not a purchase."
+  ],
+  "shop.buy.notSold": [
+    "{item} is not sold this season.",
+    "{item} is not sold this season.",
+    "{item} is not sold this season.",
+    "{item} is not sold this season. Come back later.",
+    "{item} is not sold this season. The shopkeeper shrugs at the calendar."
+  ],
+  "shop.buy.stock": [
+    "Only {count} left in stock.",
+    "Only {count} left in stock.",
+    "Only {count} left in stock.",
+    "Only {count} left in stock, sorry.",
+    "Only {count} left in stock, and the shelf looks rather sad about it."
+  ],
+  "shop.buy.cannotAfford": [
+    "That costs {cost}g and you have {gold}g.",
+    "That costs {cost}g and you have {gold}g.",
+    "That costs {cost}g, and you have {gold}g.",
+    "That costs {cost}g. You have {gold}g. The arithmetic is not kind.",
+    "That costs {cost}g. You have {gold}g. The arithmetic is merciless and the shopkeeper is watching."
+  ],
+  "shop.buy.ok": [
+    "Bought {count} {item} for {cost}g.",
+    "Bought {count} {item} for {cost}g.",
+    "Bought {count} {item} for {cost}g.",
+    "Bought {count} {item} for {cost}g. Spend it well.",
+    "Bought {count} {item} for {cost}g. The coins clink, the shopkeeper beams."
+  ],
+  "shop.sell.atLeastOne": [
+    "Sell at least one.",
+    "Sell at least one.",
+    "Sell at least one.",
+    "Sell at least one, or sell none at all.",
+    "Sell at least one. Selling zero is not a transaction, it is a conversation."
+  ],
+  "shop.sell.none": [
+    "No {item} in the bag.",
+    "No {item} in the bag.",
+    "No {item} in the bag.",
+    "Not one {item} in the bag.",
+    "Not one {item} in the bag. You may have imagined it."
+  ],
+  "shop.sell.only": [
+    "Only {count} in the bag.",
+    "Only {count} in the bag.",
+    "Only {count} in the bag.",
+    "Only {count} in the bag, I am afraid.",
+    "Only {count} in the bag. The bag has been thoroughly searched."
+  ],
+  "shop.sell.worthless": [
+    "Nobody wants {item}.",
+    "Nobody wants {item}.",
+    "Nobody wants {item}.",
+    "Nobody wants {item}, sadly.",
+    "Nobody wants {item}. Not one soul in the whole valley."
+  ],
+  "shop.sell.ok": [
+    "Sold {count} {item} for {total}g.",
+    "Sold {count} {item} for {total}g.",
+    "Sold {count} {item} for {total}g.",
+    "Sold {count} {item} for {total}g. Nicely done.",
+    "Sold {count} {item} for {total}g. The purse grows fat and pleased with itself."
+  ],
+  "shop.sellAll.none": [
+    "No produce in the bag.",
+    "No produce in the bag.",
+    "No produce in the bag.",
+    "Not a scrap of produce in the bag.",
+    "Not a scrap of produce in the bag. Go and grow something."
+  ],
+  "shop.sellAll.ok": [
+    "Sold {count} produce for {total}g.",
+    "Sold {count} produce for {total}g.",
+    "Sold {count} produce for {total}g.",
+    "Sold {count} produce for {total}g. A good day at the market.",
+    "Sold {count} produce for {total}g. The whole bag empties and the purse sings."
+  ],
+  "shop.note.crop": [
+    "Grows in {days} days, sells for {price}g.",
+    "Grows in {days} days, sells for {price}g.",
+    "Grows in {days} days and sells for {price}g.",
+    "Ready in {days} days, worth {price}g at the counter.",
+    "Ready in {days} days and worth {price}g at the counter, assuming you water it."
+  ],
+  "shop.note.cropRegrow": [
+    "Grows in {days} days, regrows every {regrow} days, sells for {price}g.",
+    "Grows in {days} days, regrows every {regrow} days, sells for {price}g.",
+    "Grows in {days} days, then regrows every {regrow} days, and sells for {price}g.",
+    "Ready in {days} days, back again every {regrow} days, worth {price}g each time.",
+    "Ready in {days} days, back again every {regrow} days, worth {price}g each time — the gift that keeps giving."
+  ],
+  "shop.note.sprinkler": [
+    "Waters {count} tiles each night.",
+    "Waters {count} tiles each night.",
+    "Waters {count} tiles every night.",
+    "Waters {count} tiles every night, for free, forever.",
+    "Waters {count} tiles every night, for free, forever, and never once asks for a day off."
+  ],
+  "shop.note.fertilizer": [
+    "Faster growth and better quality.",
+    "Faster growth and better quality.",
+    "Faster growth and better quality produce.",
+    "Faster growth and better produce. Worth every coin.",
+    "Faster growth and better produce. Worth every single coin you throw at it."
+  ],
+  "shop.title": [
+    "Shop",
+    "Shop",
+    "The shop",
+    "The shop",
+    "The shop, and its patient shopkeeper"
+  ],
+  "shop.price": [
+    "{price}g each",
+    "{price}g each",
+    "{price}g each",
+    "{price}g each",
+    "{price}g each, take it or leave it"
+  ],
+  "shop.stock.unlimited": [
+    "Always in stock",
+    "Always in stock",
+    "Always in stock",
+    "Always in stock",
+    "Always in stock, somehow"
+  ],
+  "settings.sections.label": [
+    "Settings sections",
+    "Settings sections",
+    "Settings sections",
+    "The settings sections",
+    "The settings sections, all eight of them"
+  ],
+  "settings.sections.count": [
+    "{section}, {count} settings",
+    "{section}, {count} settings",
+    "{section} — {count} settings",
+    "{section}, holding {count} settings",
+    "{section}, presiding over {count} settings"
+  ],
+  "settings.language.disclosure": [
+    "What the funny level does",
+    "What the funny level does",
+    "What the funny level actually does",
+    "What the funny level actually does",
+    "What the funny level actually does, and what it never does"
+  ],
+  "settings.language.disclosure.desc": [
+    "Voice changes. Facts do not.",
+    "Voice changes. Facts do not.",
+    "The voice changes. The facts do not.",
+    "The voice changes. The facts do not, ever.",
+    "The voice changes. The facts do not, ever, under any circumstances."
+  ],
+  "settings.language.disclosure.body": [
+    "The funny level changes the wording of every message, including warnings and failures. It never changes a fact: a number, a name, a file path, a key binding, an error code and a crop price read the same at every level.",
+    "The funny level changes the wording of every message, including warnings and failures. It never changes a fact: a number, a name, a file path, a key binding, an error code and a crop price read the same at every level.",
+    "The funny level restyles every message you will ever see, warnings and failures included. What it will never do is touch a fact — a number, a name, a file path, a key binding, an error code and a crop price read exactly the same at every level.",
+    "The funny level restyles every message in the app, warnings and failures included, so do not expect a quiet life at the top of the dial. What it will never do is touch a fact: a number, a name, a file path, a key binding, an error code and a crop price read exactly the same at every level.",
+    "The funny level restyles every message this app will ever say to you — warnings, failures, disasters and all. But it is under strict orders and it never touches a fact: a number, a name, a file path, a key binding, an error code and a crop price read exactly, identically, immovably the same at every level."
+  ],
+  "settings.language.funny.desc": [
+    "English and Cantonese are dialled separately.",
+    "English and Cantonese are dialled separately.",
+    "English and Cantonese are dialled separately, so one can be plain while the other plays.",
+    "English and Cantonese are dialled separately, so one can behave while the other misbehaves.",
+    "English and Cantonese are dialled separately, so one can stay respectable while the other runs riot."
+  ],
+  "settings.language.funny.level": [
+    "Level {level}",
+    "Level {level}",
+    "Level {level}",
+    "Level {level}",
+    "Level {level}"
+  ],
+  "settings.language.sampleLine": [
+    "{crop} sells for {price}g. Press {key} to sleep.",
+    "{crop} sells for {price}g. Press {key} to sleep.",
+    "A {crop} sells for {price}g, and {key} puts you to bed.",
+    "A {crop} will fetch you {price}g, and {key} puts you to bed. Not bad.",
+    "A single {crop} will fetch you a princely {price}g, and one press of {key} sends you to bed a richer soul."
+  ],
+  "settings.language.changed": [
+    "Language set to {lang}.",
+    "Language set to {lang}.",
+    "Now speaking {lang}.",
+    "Right then — {lang} it is.",
+    "From this moment on, we speak {lang}."
+  ],
+  "settings.motion.captions": [
+    "Caption the game",
+    "Caption the game",
+    "Caption what the game does",
+    "Caption what the game does",
+    "Caption everything the game does, in words"
+  ],
+  "settings.motion.captions.desc": [
+    "Show game messages as text in the shell as well as on the canvas.",
+    "Show game messages as text in the shell as well as on the canvas.",
+    "Game messages appear as real text in the shell, not only as pixels on the canvas.",
+    "Game messages appear as real text in the shell, not only as pixels a screen reader cannot read.",
+    "Game messages appear as real, selectable text in the shell, not only as pixels a screen reader would stare at helplessly."
+  ],
+  "settings.motion.changed": [
+    "Motion set to {mode}. Currently {effective}.",
+    "Motion set to {mode}. Currently {effective}.",
+    "Motion is now {mode}, which works out as {effective}.",
+    "Motion is now {mode}, which works out as {effective} right now.",
+    "Motion is now {mode}, which after consulting your system works out as {effective}."
+  ],
+  "settings.motion.verbosity": [
+    "Announcement detail",
+    "Announcement detail",
+    "How much is announced",
+    "How much gets announced",
+    "How much the live region says out loud"
+  ],
+  "settings.motion.verbosity.desc": [
+    "How much detail the screen reader live region carries.",
+    "How much detail the screen reader live region carries.",
+    "How much detail goes into the live region a screen reader reads.",
+    "How much detail goes into the live region — terse, or the full running commentary.",
+    "How much detail goes into the live region: terse, or the full breathless running commentary."
+  ],
+  "settings.motion.verbosity.changed": [
+    "Announcement detail set to {level}.",
+    "Announcement detail set to {level}.",
+    "Announcement detail is now {level}.",
+    "Announcement detail is now {level}.",
+    "Announcement detail is now {level}. The live region has been informed."
+  ],
+  "settings.motion.farmNote": [
+    "The farm honours this setting too.",
+    "The farm honours this setting too.",
+    "The farm honours this setting as well as the shell.",
+    "The farm honours this setting as well as the shell — both surfaces, one preference.",
+    "The farm honours this setting as well as the shell. Two surfaces, one preference, no arguing."
+  ],
+  "settings.scale.changed": [
+    "Scale set to {scale}.",
+    "Scale set to {scale}.",
+    "Scale is now {scale}.",
+    "Scale is now {scale}.",
+    "Scale is now {scale}, and everything has shuffled to suit."
+  ],
+  "settings.audio.volume": [
+    "Volume",
+    "Volume",
+    "Volume",
+    "How loud",
+    "How loud the valley is allowed to be"
+  ],
+  "settings.audio.volume.desc": [
+    "The master gain for every synthesised sound.",
+    "The master gain for every synthesised sound.",
+    "The master gain for every sound the app makes up.",
+    "The master gain for every sound the app makes up on the spot.",
+    "The master gain for every sound the app conjures out of arithmetic on the spot."
+  ],
+  "settings.audio.volume.value": [
+    "{percent}%",
+    "{percent}%",
+    "{percent}%",
+    "{percent}%",
+    "{percent}%"
+  ],
+  "settings.audio.muted": [
+    "Muted",
+    "Muted",
+    "Muted",
+    "Muted, and quite peaceful",
+    "Muted. The valley holds its breath."
+  ],
+  "settings.audio.unmuted": [
+    "Sound on",
+    "Sound on",
+    "Sound on",
+    "Sound on and audible",
+    "Sound on. The valley clears its throat."
+  ],
+  "settings.audio.test.played": [
+    "That is what it sounds like.",
+    "That is what it sounds like.",
+    "That is what it sounds like.",
+    "That is what it sounds like. Happy?",
+    "That is what it sounds like. A tiny masterpiece, made of arithmetic."
+  ],
+  "settings.game.farmKeys": [
+    "Farm keys in the shell",
+    "Farm keys in the shell",
+    "Farm keys while the shell has focus",
+    "Farm keys while the shell has focus",
+    "Whether farm keys still work while the shell has focus"
+  ],
+  "settings.game.farmKeys.desc": [
+    "Whether the game keys work when a shell control has focus.",
+    "Whether the game keys work when a shell control has focus.",
+    "Whether the game keys still reach the farm when a shell control has focus.",
+    "Whether the game keys still reach the farm when a shell control has focus. Off is safer for typing.",
+    "Whether the game keys still reach the farm when a shell control has focus. Off is safer, unless you enjoy sowing seeds mid-sentence."
+  ],
+  "settings.game.farmKeys.changed": [
+    "Farm keys set to {mode}.",
+    "Farm keys set to {mode}.",
+    "Farm keys are now {mode}.",
+    "Farm keys are now {mode}.",
+    "Farm keys are now {mode}, and the farm has been told."
+  ],
+  "settings.game.keepAwake": [
+    "Keep the screen awake",
+    "Keep the screen awake",
+    "Keep the screen awake",
+    "Keep the screen from sleeping",
+    "Keep the screen from nodding off mid-harvest"
+  ],
+  "settings.game.keepAwake.desc": [
+    "Uses the browser wake lock while the farm is visible.",
+    "Uses the browser wake lock while the farm is visible.",
+    "Uses the browser wake lock while the farm tab is visible.",
+    "Uses the browser wake lock while the farm tab is visible, and gives it back when it is not.",
+    "Uses the browser wake lock while the farm tab is visible, and hands it straight back when it is not. No hoarding."
+  ],
+  "settings.game.keepAwake.idle": [
+    "Not held",
+    "Not held",
+    "Not held right now",
+    "Not held right now",
+    "Not held right now, and quite relaxed about it"
+  ],
+  "settings.game.keepAwake.held": [
+    "Held",
+    "Held",
+    "Held right now",
+    "Held right now",
+    "Held right now, and holding firm"
+  ],
+  "settings.game.keepAwake.refused": [
+    "The system refused it.",
+    "The system refused it.",
+    "The system refused the request.",
+    "The system said no.",
+    "The system said no, flatly, and offered no reason."
+  ],
+  "settings.game.keepAwake.unsupported": [
+    "Not supported here.",
+    "Not supported here.",
+    "Not supported on this machine.",
+    "Not supported on this machine, sadly.",
+    "Not supported on this machine. Some things are simply not to be."
+  ],
+  "settings.game.muteOnBlur": [
+    "Mute when the window is away",
+    "Mute when the window is away",
+    "Mute when the window loses focus",
+    "Mute the moment the window loses focus",
+    "Mute the instant the window loses focus, out of sheer politeness"
+  ],
+  "settings.game.muteOnBlur.desc": [
+    "The valley goes quiet when you switch to something else.",
+    "The valley goes quiet when you switch to something else.",
+    "The valley goes quiet the moment you switch to something else.",
+    "The valley goes quiet the moment you switch away, and speaks up again when you come back.",
+    "The valley goes quiet the moment you switch away, and clears its throat again the moment you return."
+  ],
+  "settings.appearance.editor": [
+    "The appearance editor",
+    "The appearance editor",
+    "The appearance editor",
+    "The appearance editor",
+    "The appearance editor, and how to summon it"
+  ],
+  "settings.appearance.editor.desc": [
+    "Every rendered element can be edited and reset.",
+    "Every rendered element can be edited and reset.",
+    "Every element on screen can be edited, and every edit can be reset.",
+    "Every element on screen can be edited, and every edit put back. Nothing is permanent.",
+    "Every element on screen can be edited, and every edit put back. Nothing here is permanent, least of all your taste."
+  ],
+  "settings.appearance.editor.hint": [
+    "Right-click an element, or press {chord} while it has focus.",
+    "Right-click an element, or press {chord} while it has focus.",
+    "Right-click any element, or press {chord} while it has focus.",
+    "Right-click anything at all, or press {chord} while it has focus.",
+    "Right-click anything at all, or press {chord} while it has focus. Nothing is safe from you."
+  ],
+  "settings.appearance.editor.open": [
+    "Open the appearance editor",
+    "Open the appearance editor",
+    "Open the appearance editor",
+    "Open the appearance editor",
+    "Summon the appearance editor"
+  ],
+  "settings.appearance.colour": [
+    "Palette colours",
+    "Palette colours",
+    "The palette colours",
+    "The fourteen palette colours",
+    "All fourteen palette colours, yours to repoint"
+  ],
+  "settings.appearance.colour.desc": [
+    "Both surfaces draw from these fourteen entries.",
+    "Both surfaces draw from these fourteen entries.",
+    "The game and the shell both draw from these fourteen entries.",
+    "The game and the shell both draw from these fourteen entries. Change one and both follow.",
+    "The game and the shell both draw from these fourteen entries. Change one and the whole valley changes with it."
+  ],
+  "settings.appearance.colour.reset": [
+    "Reset this colour",
+    "Reset this colour",
+    "Put this colour back",
+    "Put this colour back how it was",
+    "Return this colour to the valley it came from"
+  ],
+  "settings.appearance.colour.wasReset": [
+    "{name} is back to {base}.",
+    "{name} is back to {base}.",
+    "{name} is back to {base}.",
+    "{name} has gone back to {base}.",
+    "{name} has marched back to {base}, older and wiser."
+  ],
+  "settings.appearance.resetAll.action": [
+    "Reset all appearance",
+    "Reset all appearance",
+    "Reset every appearance change",
+    "Undo every appearance change",
+    "Undo every last appearance change in one sweep"
+  ],
+  "settings.appearance.resetAll.desc": [
+    "Every element goes back to the stylesheet.",
+    "Every element goes back to the stylesheet.",
+    "Every element goes back to what the stylesheet says.",
+    "Every element goes back to what the stylesheet says, and your edits are gone.",
+    "Every element goes back to what the stylesheet says, and every edit you made is quietly forgotten."
+  ],
+  "settings.appearance.resetAll.confirmTitle": [
+    "Reset all appearance?",
+    "Reset all appearance?",
+    "Reset every appearance change?",
+    "Really undo every appearance change?",
+    "Truly undo every appearance change you ever made?"
+  ],
+  "settings.appearance.resetAll.confirmBody": [
+    "Every element goes back to its default. This cannot be undone.",
+    "Every element goes back to its default. This cannot be undone.",
+    "Every element goes back to its default, and there is no undo.",
+    "Every element goes back to its default. There is no undo for this one.",
+    "Every element marches back to its default. There is no undo, no backup and no mercy."
+  ],
+  "settings.appearance.resetAll.done": [
+    "{count} elements reset.",
+    "{count} elements reset.",
+    "{count} elements are back to their defaults.",
+    "{count} elements are back to their defaults.",
+    "{count} elements have returned to their defaults, blinking."
+  ],
+  "settings.data.export.action": [
+    "Export now",
+    "Export now",
+    "Export it now",
+    "Export it now",
+    "Export it now, while you remember"
+  ],
+  "settings.data.export.desc": [
+    "Pick a target and a format. Nothing is uploaded.",
+    "Pick a target and a format. Nothing is uploaded.",
+    "Pick what to export and in what format. Nothing is uploaded anywhere.",
+    "Pick what to export and in what format. Nothing is uploaded anywhere, to anyone.",
+    "Pick what to export and in what format. Nothing is uploaded anywhere, to anyone, ever."
+  ],
+  "settings.data.export.done": [
+    "Saved {filename}, {bytes} bytes.",
+    "Saved {filename}, {bytes} bytes.",
+    "Saved {filename} — {bytes} bytes.",
+    "Saved {filename}, all {bytes} bytes of it.",
+    "Saved {filename}, all {bytes} bytes of it. Look after it."
+  ],
+  "settings.data.export.failed": [
+    "Could not export {target} as {format}.",
+    "Could not export {target} as {format}.",
+    "That export of {target} as {format} did not work.",
+    "The export of {target} as {format} fell over.",
+    "The export of {target} as {format} fell over in spectacular fashion."
+  ],
+  "settings.data.export.unavailable": [
+    "Downloads are unavailable here.",
+    "Downloads are unavailable here.",
+    "Downloads are not available in this build.",
+    "Downloads are not available in this build, sorry.",
+    "Downloads are not available in this build. Copy it to the clipboard instead."
+  ],
+  "settings.data.import.action": [
+    "Choose a file",
+    "Choose a file",
+    "Choose a file",
+    "Choose a file to bring in",
+    "Choose a file, and let us see what is in it"
+  ],
+  "settings.data.import.desc": [
+    "Reads a file this app exported earlier.",
+    "Reads a file this app exported earlier.",
+    "Reads a file this app exported earlier. Nothing else is accepted.",
+    "Reads a file this app exported earlier. It will not take anything else.",
+    "Reads a file this app exported earlier, and flatly refuses anything else."
+  ],
+  "settings.data.import.confirmTitle": [
+    "Import and replace?",
+    "Import and replace?",
+    "Import and replace what is here?",
+    "Import this and replace what is here?",
+    "Import this and replace everything currently here?"
+  ],
+  "settings.data.import.confirmBody": [
+    "{file} replaces: {parts}. This cannot be undone.",
+    "{file} replaces: {parts}. This cannot be undone.",
+    "{file} will replace: {parts}. There is no undo.",
+    "{file} will replace: {parts}. There is no undo for this one.",
+    "{file} will replace: {parts}. There is no undo, no backup and no going back."
+  ],
+  "settings.data.import.done": [
+    "Imported.",
+    "Imported.",
+    "Imported and applied.",
+    "Imported and applied. Everything is in.",
+    "Imported and applied. Everything arrived safely."
+  ],
+  "settings.data.import.failed": [
+    "Could not import {file}.",
+    "Could not import {file}.",
+    "{file} could not be imported.",
+    "{file} refused to be imported.",
+    "{file} refused to be imported, and offered no explanation."
+  ],
+  "settings.data.import.noFile": [
+    "No file was chosen.",
+    "No file was chosen.",
+    "No file was chosen.",
+    "No file was chosen, so nothing happened.",
+    "No file was chosen, so absolutely nothing happened."
+  ],
+  "settings.data.import.nothing": [
+    "{file} held nothing to import.",
+    "{file} held nothing to import.",
+    "{file} had nothing in it to import.",
+    "{file} had nothing in it worth importing.",
+    "{file} had nothing in it worth importing. A beautiful, empty gesture."
+  ],
+  "settings.data.import.unreadable": [
+    "{file} could not be read.",
+    "{file} could not be read.",
+    "{file} could not be read.",
+    "{file} makes no sense at all.",
+    "{file} makes no sense whatsoever, and we tried very hard."
+  ],
+  "settings.data.import.unavailable": [
+    "File reading is unavailable here.",
+    "File reading is unavailable here.",
+    "File reading is not available in this build.",
+    "File reading is not available in this build, sorry.",
+    "File reading is not available in this build. Paste the text instead."
+  ],
+  "settings.data.clearHistory.action": [
+    "Clear the history",
+    "Clear the history",
+    "Clear the history",
+    "Wipe the history",
+    "Wipe the history and forget it all"
+  ],
+  "settings.data.clearHistory.desc": [
+    "Deletes the local history. Settings and appearance stay.",
+    "Deletes the local history. Settings and appearance stay.",
+    "Deletes the local history and leaves your settings and appearance alone.",
+    "Deletes the local history and leaves your settings and appearance untouched.",
+    "Deletes the local history and leaves your settings and appearance entirely untouched."
+  ],
+  "settings.data.clearHistory.confirmTitle": [
+    "Clear the history?",
+    "Clear the history?",
+    "Clear the history?",
+    "Really wipe the history?",
+    "Truly wipe every trace of the past?"
+  ],
+  "settings.data.clearHistory.confirmBody": [
+    "Every entry is deleted. This cannot be undone.",
+    "Every entry is deleted. This cannot be undone.",
+    "Every entry is deleted, and there is no undo.",
+    "Every entry goes in the bin, and there is no undo.",
+    "Every entry goes in the bin, never to be seen again. There is no undo."
+  ],
+  "settings.data.clearHistory.done": [
+    "The history is cleared.",
+    "The history is cleared.",
+    "The history is cleared.",
+    "The history is gone.",
+    "The history is gone without a trace."
+  ],
+  "settings.data.clearHistory.failed": [
+    "The history could not be cleared.",
+    "The history could not be cleared.",
+    "The history could not be cleared.",
+    "The history refused to be cleared.",
+    "The history refused to be cleared. It clings on."
+  ],
+  "settings.data.clearHistory.unavailable": [
+    "There is no history to clear.",
+    "There is no history to clear.",
+    "There is no history to clear.",
+    "There is no history here to clear.",
+    "There is no history here to clear. You have been admirably restrained."
+  ],
+  "settings.data.resetAll.action": [
+    "Reset everything",
+    "Reset everything",
+    "Reset everything",
+    "Wipe the lot",
+    "Wipe the lot and start from nothing"
+  ],
+  "settings.data.resetAll.failed": [
+    "The reset did not finish.",
+    "The reset did not finish.",
+    "The reset did not finish.",
+    "The reset fell over halfway.",
+    "The reset fell over halfway, which is the worst possible place."
+  ],
+  "settings.about.accessibility": [
+    "Accessibility",
+    "Accessibility",
+    "Accessibility",
+    "Accessibility",
+    "Accessibility, and how seriously we take it"
+  ],
+  "settings.about.accessibility.desc": [
+    "Keyboard reachable, screen reader friendly, reduced motion honoured.",
+    "Keyboard reachable, screen reader friendly, reduced motion honoured.",
+    "Everything is keyboard reachable, screen readers are told the truth, and reduced motion is honoured.",
+    "Everything is keyboard reachable, screen readers are told the truth, and reduced motion is honoured everywhere.",
+    "Everything is keyboard reachable, screen readers are told the truth, and reduced motion is honoured everywhere. No costumes."
+  ],
+  "settings.about.licence.desc": [
+    "The licence this application ships under.",
+    "The licence this application ships under.",
+    "The licence this application ships under.",
+    "The licence this application ships under. Read it if you like.",
+    "The licence this application ships under. Read it, if that is your idea of an evening."
+  ],
+  "settings.about.licence.missing": [
+    "The licence text is not bundled.",
+    "The licence text is not bundled.",
+    "The licence text is not bundled in this build.",
+    "The licence text is not bundled in this build, awkwardly.",
+    "The licence text is not bundled in this build, which is faintly embarrassing."
+  ],
+  "settings.about.version.desc": [
+    "The build and its save format.",
+    "The build and its save format.",
+    "The build, and the save format it reads.",
+    "The build, and the save format it can read.",
+    "The build, and the save format it will happily read."
+  ],
+  "settings.about.version.value": [
+    "Version {version}, save format {save}",
+    "Version {version}, save format {save}",
+    "Version {version}, save format {save}",
+    "Version {version}, save format {save}",
+    "Version {version}, save format {save}"
+  ],
+  "settings.about.version.unknown": [
+    "Unknown",
+    "Unknown",
+    "Unknown",
+    "Nobody knows",
+    "Nobody knows, and nobody will say"
+  ],
+  "settings.about.version.copy": [
+    "Copy the version",
+    "Copy the version",
+    "Copy the version",
+    "Copy the version",
+    "Copy the version, for the bug report"
+  ],
+  "settings.about.version.copied": [
+    "Copied {version}.",
+    "Copied {version}.",
+    "Copied {version}.",
+    "{version} is on your clipboard.",
+    "{version} now lives in your clipboard."
+  ],
+  "settings.search.placeholder": [
+    "Search settings",
+    "Search settings",
+    "What are you looking for?",
+    "What are you after?",
+    "Name it and it shall be found"
+  ],
+  "settings.search.describe": [
+    "Every setting label, description and value on this tab.",
+    "Every setting label, description and value on this tab.",
+    "Every setting label, description and value on this tab.",
+    "Every label, description and value on this tab, all at once.",
+    "Every label, description and value on this tab, all at once, and nothing hides."
+  ],
+  "settings.search.idle": [
+    "{count} settings.",
+    "{count} settings.",
+    "{count} settings on this tab.",
+    "{count} settings on this tab, waiting.",
+    "{count} settings on this tab, waiting to be fiddled with."
+  ],
+  "settings.search.results": [
+    "{count} settings match {query}.",
+    "{count} settings match {query}.",
+    "{count} settings match {query}.",
+    "{count} settings answered to {query}.",
+    "{count} settings came running when you said {query}."
+  ],
+  "settings.search.matches": [
+    "{count} matches in the sample.",
+    "{count} matches in the sample.",
+    "{count} matches in the sample.",
+    "{count} matches found in the sample.",
+    "{count} matches hunted down in the sample."
+  ],
+  "settings.search.invalid": [
+    "Not a valid pattern at character {index}: {error}",
+    "Not a valid pattern at character {index}: {error}",
+    "The pattern breaks at character {index}: {error}",
+    "The pattern falls over at character {index}: {error}",
+    "The pattern falls flat on its face at character {index}: {error}"
+  ],
+  "settings.search.timedOut": [
+    "The pattern took too long and was stopped.",
+    "The pattern took too long and was stopped.",
+    "The pattern was taking too long, so it was stopped.",
+    "The pattern went wandering, so it was stopped.",
+    "The pattern wandered off into the wilderness, so it was hauled back."
+  ],
+  "settings.search.dialect": [
+    "Dialect: {dialect}.",
+    "Dialect: {dialect}.",
+    "This searches with {dialect}.",
+    "This searches with {dialect}, and nothing else.",
+    "This searches with {dialect}, and nothing else. No lookbehind fantasies."
+  ],
+  "settings.search.sample": [
+    "Sample text, up to {limit} characters",
+    "Sample text, up to {limit} characters",
+    "Sample text, up to {limit} characters",
+    "Sample text, {limit} characters at most",
+    "Sample text, {limit} characters at most, for everyone’s sake"
+  ],
+  "settings.search.copied": [
+    "Copied {pattern}.",
+    "Copied {pattern}.",
+    "Copied {pattern}.",
+    "{pattern} is on your clipboard.",
+    "{pattern} now lives in your clipboard."
+  ],
+  "settings.search.inSection": [
+    "In {section}",
+    "In {section}",
+    "In {section}",
+    "Over in {section}",
+    "Over in {section}, since you ask"
+  ],
+  "settings.search.apply": [
+    "Apply the pattern",
+    "Apply the pattern",
+    "Apply the pattern",
+    "Put the pattern to work",
+    "Set the pattern loose on the settings"
+  ],
+  "settings.search.reloadSample": [
+    "Reload the sample",
+    "Reload the sample",
+    "Reload the sample text",
+    "Reload the sample text",
+    "Fetch a fresh sample to torment"
+  ],
+  "settings.search.insertLiteral": [
+    "Insert as literal text",
+    "Insert as literal text",
+    "Insert it as literal text, escaped",
+    "Insert it as literal text, escaped for you",
+    "Insert it as literal text, escaped for you, no surprises"
+  ],
+  "settings.search.regexToggleHint": [
+    "Plain text is the default. Regex is an explicit choice.",
+    "Plain text is the default. Regex is an explicit choice.",
+    "Plain text unless you say otherwise — regex is always an explicit choice.",
+    "Plain text unless you say otherwise. Regex is always your explicit choice.",
+    "Plain text unless you say otherwise. Regex is always your explicit choice, and your responsibility."
+  ],
+  "settings.search.token.named": [
+    "Named group",
+    "Named group",
+    "A named capture group",
+    "A named capture group",
+    "A named capture group, for the organised"
+  ],
+  "settings.search.token.notClass": [
+    "None of these characters",
+    "None of these characters",
+    "None of these characters",
+    "Anything except these characters",
+    "Anything at all except these characters"
+  ],
+  "settings.search.token.count": [
+    "A counted repeat",
+    "A counted repeat",
+    "A counted repeat",
+    "A repeat with a count on it",
+    "A repeat with a strict count on it"
+  ],
+  "surprise.toggle": [
+    "Show the dim sum trolley",
+    "Show the dim sum trolley",
+    "Show the dim sum trolley",
+    "Bring out the dim sum trolley",
+    "Wheel out the dim sum trolley, and mind the tea"
+  ],
+  "surprise.command.toggle": [
+    "Dim sum: show or hide the trolley",
+    "Dim sum: show or hide the trolley",
+    "Dim sum: show or hide the trolley",
+    "Dim sum: wheel the trolley in or out",
+    "Dim sum: wheel the trolley in, or wheel it sadly away"
+  ],
+  "surprise.group": [
+    "Appearance",
+    "Appearance",
+    "Appearance",
+    "Appearance",
+    "Appearance"
+  ],
+  "appearance.editor.close": [
+    "Close the editor",
+    "Close the editor",
+    "Close the editor",
+    "Put the editor away",
+    "Dismiss the editor, with thanks"
+  ],
+  "appearance.editor.properties": [
+    "Properties",
+    "Properties",
+    "Properties",
+    "The properties",
+    "Every property, laid out for you"
+  ],
+  "appearance.menu.title": [
+    "Appearance of {element}",
+    "Appearance of {element}",
+    "How {element} looks",
+    "Dressing up {element}",
+    "The complete wardrobe of {element}"
+  ],
+  "appearance.menu.items": [
+    "Appearance actions",
+    "Appearance actions",
+    "Things you can do here",
+    "Things you can do to it",
+    "Everything you can do to this poor element"
+  ],
+  "appearance.field.borderWidth": [
+    "Border width",
+    "Border width",
+    "Border width",
+    "How thick the frame is",
+    "How thick the carved frame is"
+  ],
+  "appearance.field.edit": [
+    "Edit {property}, currently {value}",
+    "Edit {property}, currently {value}",
+    "Edit {property} — currently {value}",
+    "Change {property}, which is {value} right now",
+    "Change {property}, which is currently sporting {value}"
+  ],
+  "appearance.field.number": [
+    "{property} in {unit}",
+    "{property} in {unit}",
+    "{property}, in {unit}",
+    "{property}, measured in {unit}",
+    "{property}, measured in {unit}, precisely"
+  ],
+  "appearance.field.slider": [
+    "{property} slider, in {unit}",
+    "{property} slider, in {unit}",
+    "{property} slider, in {unit}",
+    "Slide to set {property}, in {unit}",
+    "Slide to set {property}, in {unit}, to your heart’s content"
+  ],
+  "appearance.field.value": [
+    "{value}{unit}",
+    "{value}{unit}",
+    "{value}{unit}",
+    "{value}{unit}",
+    "{value}{unit}"
+  ],
+  "appearance.resetAll.done": [
+    "{count} elements reset.",
+    "{count} elements reset.",
+    "{count} elements are back to their defaults.",
+    "{count} elements are back to their defaults.",
+    "{count} elements have returned to their defaults, blinking."
+  ],
+  "appearance.colorpicker.swatches": [
+    "Palette swatches",
+    "Palette swatches",
+    "The palette swatches",
+    "The fourteen palette swatches",
+    "All fourteen palette swatches, lined up"
+  ],
+  "colorpicker.label": [
+    "Colour picker",
+    "Colour picker",
+    "Colour picker",
+    "The colour picker",
+    "The colour picker, in all its glory"
+  ],
+  "colorpicker.field": [
+    "Saturation and brightness",
+    "Saturation and brightness",
+    "Saturation and brightness",
+    "Drag for saturation and brightness",
+    "Drag about for saturation and brightness"
+  ],
+  "colorpicker.fieldHelp": [
+    "Arrow keys move by one, Page Up and Page Down by ten, Home and End to the edges.",
+    "Arrow keys move by one, Page Up and Page Down by ten, Home and End to the edges.",
+    "Arrow keys move by one, Page Up and Page Down by ten, and Home and End go to the edges.",
+    "Arrow keys nudge by one, Page Up and Page Down leap by ten, Home and End take you to the edges.",
+    "Arrow keys nudge by one, Page Up and Page Down leap by ten, and Home and End fling you to the edges."
+  ],
+  "colorpicker.fieldValue": [
+    "Saturation {saturation}, brightness {brightness}, {hex}",
+    "Saturation {saturation}, brightness {brightness}, {hex}",
+    "Saturation {saturation}, brightness {brightness} — {hex}",
+    "Saturation {saturation}, brightness {brightness}, which comes out as {hex}",
+    "Saturation {saturation}, brightness {brightness}, which comes out, magnificently, as {hex}"
+  ],
+  "colorpicker.fieldValueNamed": [
+    "Saturation {saturation}, brightness {brightness}, {hex}, which is {name}",
+    "Saturation {saturation}, brightness {brightness}, {hex}, which is {name}",
+    "Saturation {saturation}, brightness {brightness}, {hex} — that is {name}",
+    "Saturation {saturation}, brightness {brightness}, {hex}, and that one has a name: {name}",
+    "Saturation {saturation}, brightness {brightness}, {hex}, and that one has a proper name: {name}"
+  ],
+  "colorpicker.hue": [
+    "Hue",
+    "Hue",
+    "Hue",
+    "Hue",
+    "Hue, the whole rainbow of it"
+  ],
+  "colorpicker.hueValue": [
+    "{degrees} degrees",
+    "{degrees} degrees",
+    "{degrees} degrees",
+    "{degrees} degrees round the wheel",
+    "{degrees} degrees round the wheel, exactly"
+  ],
+  "colorpicker.saturation": [
+    "Saturation",
+    "Saturation",
+    "Saturation",
+    "Saturation",
+    "Saturation, how much colour is in the colour"
+  ],
+  "colorpicker.brightness": [
+    "Brightness",
+    "Brightness",
+    "Brightness",
+    "Brightness",
+    "Brightness, from the pit to the noon"
+  ],
+  "colorpicker.alpha": [
+    "Opacity",
+    "Opacity",
+    "Opacity",
+    "How solid it is",
+    "How solid, or how ghostly"
+  ],
+  "colorpicker.percent": [
+    "{percent}%",
+    "{percent}%",
+    "{percent}%",
+    "{percent}%",
+    "{percent}%"
+  ],
+  "colorpicker.hex": [
+    "Hex",
+    "Hex",
+    "Hex",
+    "Hex",
+    "Hex, for the purists"
+  ],
+  "colorpicker.rgb": [
+    "RGB",
+    "RGB",
+    "RGB",
+    "RGB",
+    "RGB, red green blue, the old way"
+  ],
+  "colorpicker.hsl": [
+    "HSL",
+    "HSL",
+    "HSL",
+    "HSL",
+    "HSL, for people who think in hues"
+  ],
+  "colorpicker.preview": [
+    "Preview of {hex}",
+    "Preview of {hex}",
+    "A preview of {hex}",
+    "A preview of {hex}, as it will look",
+    "A preview of {hex}, exactly as it will look on the wood"
+  ],
+  "colorpicker.named": [
+    "{name}",
+    "{name}",
+    "{name}",
+    "{name}",
+    "{name}"
+  ],
+  "colorpicker.custom": [
+    "Custom {hex}",
+    "Custom {hex}",
+    "Your own {hex}",
+    "Your own {hex}, off the palette",
+    "Your own {hex}, chosen from outside the fourteen"
+  ],
+  "colorpicker.chose": [
+    "Chose {name}, {hex}.",
+    "Chose {name}, {hex}.",
+    "Chose {name} — {hex}.",
+    "You picked {name}, which is {hex}.",
+    "You picked {name}, which is {hex}. Good eye."
+  ],
+  "colorpicker.swatch": [
+    "{name}, {hex}",
+    "{name}, {hex}",
+    "{name} — {hex}",
+    "{name}, which is {hex}",
+    "{name}, which is {hex}, since you ask"
+  ],
+  "colorpicker.swatches": [
+    "Palette",
+    "Palette",
+    "The palette",
+    "The valley palette",
+    "The valley palette, all fourteen of it"
+  ],
+  "colorpicker.swatchCount": [
+    "{shown} of {total} colours match {query}.",
+    "{shown} of {total} colours match {query}.",
+    "{shown} of {total} colours match {query}.",
+    "{shown} of {total} colours answered to {query}.",
+    "{shown} of {total} colours came running when you said {query}."
+  ],
+  "colorpicker.swatchCountAll": [
+    "{total} colours.",
+    "{total} colours.",
+    "All {total} colours.",
+    "All {total} colours, present and correct.",
+    "All {total} colours, present, correct and accounted for."
+  ],
+  "colorpicker.contrastPass": [
+    "Contrast {ratio} to 1 against {against}, above the required {required}.",
+    "Contrast {ratio} to 1 against {against}, above the required {required}.",
+    "Contrast is {ratio} to 1 against {against}, comfortably above the required {required}.",
+    "Contrast is {ratio} to 1 against {against}, comfortably clear of the required {required}.",
+    "Contrast is {ratio} to 1 against {against}, sailing clear of the required {required}."
+  ],
+  "colorpicker.contrastFail": [
+    "Contrast {ratio} to 1 against {against}, below the required {required}.",
+    "Contrast {ratio} to 1 against {against}, below the required {required}.",
+    "Contrast is only {ratio} to 1 against {against}, under the required {required}.",
+    "Contrast is a feeble {ratio} to 1 against {against}, under the required {required}.",
+    "Contrast limps in at {ratio} to 1 against {against}, well under the required {required}."
+  ],
+  "colorpicker.contrastShort": [
+    "{ratio} to 1, needs {required}",
+    "{ratio} to 1, needs {required}",
+    "{ratio} to 1, needs {required}",
+    "{ratio} to 1, and it needs {required}",
+    "{ratio} to 1, and it needs {required}, so there is work to do"
+  ],
+  "colorpicker.searchLabel": [
+    "Search palette colours",
+    "Search palette colours",
+    "Search the palette",
+    "Hunt through the palette",
+    "Interrogate all fourteen palette colours"
+  ],
+  "colorpicker.searchPlaceholder": [
+    "Search colours",
+    "Search colours",
+    "Search colours",
+    "Which colour?",
+    "Name the colour you want"
+  ],
+  "search.mode.regexShort": [
+    "Regex",
+    "Regex",
+    "Regex",
+    "Regex",
+    "Regex"
+  ],
+  "search.builder.title": [
+    "Build a pattern",
+    "Build a pattern",
+    "Build a pattern",
+    "Build yourself a pattern",
+    "Build yourself a pattern, piece by piece"
+  ],
+  "search.builder.short": [
+    "Builder",
+    "Builder",
+    "Builder",
+    "Builder",
+    "Builder"
+  ],
+  "search.builder.pattern": [
+    "Pattern",
+    "Pattern",
+    "The pattern",
+    "The pattern itself",
+    "The pattern itself, raw and unashamed"
+  ],
+  "search.builder.flags": [
+    "Flags: {flags}",
+    "Flags: {flags}",
+    "Flags: {flags}",
+    "Flags in play: {flags}",
+    "Flags currently in play: {flags}"
+  ],
+  "search.builder.noFlags": [
+    "none",
+    "none",
+    "none",
+    "none at all",
+    "not a single one"
+  ],
+  "search.builder.emptyPattern": [
+    "empty",
+    "empty",
+    "empty",
+    "completely empty",
+    "completely, gloriously empty"
+  ],
+  "search.builder.effectivePattern": [
+    "Effective pattern: {pattern}",
+    "Effective pattern: {pattern}",
+    "The pattern that will run: {pattern}",
+    "The pattern that will actually run: {pattern}",
+    "The pattern that will actually be unleashed: {pattern}"
+  ],
+  "search.builder.patternValid": [
+    "{pattern} with flags {flags} is valid.",
+    "{pattern} with flags {flags} is valid.",
+    "{pattern} with flags {flags} is good.",
+    "{pattern} with flags {flags} is good to go.",
+    "{pattern} with flags {flags} is in perfect health."
+  ],
+  "search.builder.patternError": [
+    "The pattern is not valid: {error}",
+    "The pattern is not valid: {error}",
+    "That pattern does not work: {error}",
+    "That pattern is broken: {error}",
+    "That pattern is a shambles, and here is why: {error}"
+  ],
+  "search.builder.patternUnknownError": [
+    "The pattern is not valid.",
+    "The pattern is not valid.",
+    "That pattern does not work, and it will not say why.",
+    "That pattern is broken, and it will not say why.",
+    "That pattern is broken, and it refuses point blank to say why."
+  ],
+  "search.builder.insert": [
+    "Insert",
+    "Insert",
+    "Insert it",
+    "Drop it in",
+    "Drop it into the pattern"
+  ],
+  "search.builder.insertLiteral": [
+    "Insert as literal text",
+    "Insert as literal text",
+    "Insert it as literal text, escaped",
+    "Insert it as literal text, escaped for you",
+    "Insert it as literal text, escaped for you, no surprises"
+  ],
+  "search.builder.copy": [
+    "Copy the pattern",
+    "Copy the pattern",
+    "Copy the pattern",
+    "Grab a copy of the pattern",
+    "Take a copy of this fine pattern"
+  ],
+  "search.builder.copied": [
+    "Copied {pattern}.",
+    "Copied {pattern}.",
+    "Copied {pattern}.",
+    "{pattern} is on your clipboard.",
+    "{pattern} now lives in your clipboard."
+  ],
+  "search.builder.copyFailed": [
+    "The clipboard refused {pattern}.",
+    "The clipboard refused {pattern}.",
+    "The clipboard would not take {pattern}.",
+    "The clipboard would not take {pattern}, so select it and copy it yourself.",
+    "The clipboard turned its nose up at {pattern}. Select it and copy it yourself."
+  ],
+  "search.builder.pieces": [
+    "Pattern pieces",
+    "Pattern pieces",
+    "The pattern pieces",
+    "The pieces you can add",
+    "Every piece you can drop into the pattern"
+  ],
+  "search.builder.pieceDigit": [
+    "A digit",
+    "A digit",
+    "A digit",
+    "A digit, zero to nine",
+    "A digit, zero through nine, no exceptions"
+  ],
+  "search.builder.pieceWord": [
+    "A word character",
+    "A word character",
+    "A word character",
+    "A letter, digit or underscore",
+    "A letter, a digit or a humble underscore"
+  ],
+  "search.builder.pieceLetters": [
+    "A letter",
+    "A letter",
+    "Any letter",
+    "Any letter, upper or lower",
+    "Any letter at all, upper case or lower"
+  ],
+  "search.builder.pieceAny": [
+    "Any character",
+    "Any character",
+    "Any character at all",
+    "Any character at all",
+    "Absolutely any character at all"
+  ],
+  "search.builder.pieceGroup": [
+    "Group",
+    "Group",
+    "Group",
+    "Group them together",
+    "Bundle them together as one"
+  ],
+  "search.builder.pieceAlternation": [
+    "Either or",
+    "Either or",
+    "This or that",
+    "This one or that one",
+    "This one, or that one — the pattern will not mind"
+  ],
+  "search.builder.pieceOptional": [
+    "Once or not at all",
+    "Once or not at all",
+    "Once, or not at all",
+    "Once, or not at all",
+    "Once, or not at all — no pressure"
+  ],
+  "search.builder.pieceOneOrMore": [
+    "One or more",
+    "One or more",
+    "One or more",
+    "At least one",
+    "At least one, and as many as it likes"
+  ],
+  "search.builder.pieceZeroOrMore": [
+    "Zero or more",
+    "Zero or more",
+    "Any number, including none",
+    "Any number at all, including none",
+    "Any number at all, none very much included"
+  ],
+  "search.builder.startAnchor": [
+    "Start of text",
+    "Start of text",
+    "Start of the text",
+    "Right at the start",
+    "Right at the very start, and nowhere else"
+  ],
+  "search.builder.endAnchor": [
+    "End of text",
+    "End of text",
+    "End of the text",
+    "Right at the end",
+    "Right at the very end, and nowhere else"
+  ],
+  "search.builder.wholeWord": [
+    "Whole words only",
+    "Whole words only",
+    "Whole words only",
+    "Whole words only, no fragments",
+    "Whole words only. Fragments need not apply."
+  ],
+  "search.builder.caseSensitive": [
+    "Match case",
+    "Match case",
+    "Match upper and lower case",
+    "Match upper and lower case exactly",
+    "Match upper and lower case exactly, to the letter"
+  ],
+  "search.builder.multiline": [
+    "Multiline anchors",
+    "Multiline anchors",
+    "Anchors match each line",
+    "Anchors match each line, not just the whole text",
+    "Anchors bite at each line, not just the whole text"
+  ],
+  "search.builder.unicode": [
+    "Unicode",
+    "Unicode",
+    "Full Unicode",
+    "Full Unicode, emoji and all",
+    "Full Unicode, emoji, accents and all"
+  ],
+  "notify.stackLabel": [
+    "Notifications",
+    "Notifications",
+    "Notifications",
+    "Notifications",
+    "Notifications, stacked politely"
+  ],
+  "notify.queued": [
+    "{count} more waiting.",
+    "{count} more waiting.",
+    "{count} more are waiting their turn.",
+    "{count} more are waiting their turn, patiently.",
+    "{count} more are queueing up, patiently, like a very British bus stop."
+  ],
+  "notify.progressBusy": [
+    "Working…",
+    "Working…",
+    "Working on it…",
+    "Working on it, hold tight…",
+    "Working on it, hold tight, do not touch anything…"
+  ],
+  "notify.progressPercent": [
+    "{percent}%",
+    "{percent}%",
+    "{percent}%",
+    "{percent}% of the way there",
+    "{percent}% of the way there and going strong"
+  ],
+  "notify.confirm.ok": [
+    "Confirm",
+    "Confirm",
+    "Yes, do it",
+    "Yes, do it",
+    "Yes. Do it."
+  ],
+  "notify.confirm.cancel": [
+    "Cancel",
+    "Cancel",
+    "Never mind",
+    "Nope, back out",
+    "Abort the whole affair"
+  ],
+  "notify.confirm.destructiveHint": [
+    "{action} cannot be undone.",
+    "{action} cannot be undone.",
+    "There is no undo for {action}.",
+    "There is no undo for {action}, none at all.",
+    "There is no undo for {action}. No backup, no second chance, no kindly stranger."
+  ],
+  "titlebar.wordmark": [
+    "Sprout Hollow",
+    "Sprout Hollow",
+    "Sprout Hollow",
+    "Sprout Hollow",
+    "Sprout Hollow"
+  ],
+  "tabs.panel.empty": [
+    "{title} has nothing in it yet.",
+    "{title} has nothing in it yet.",
+    "{title} is empty for now.",
+    "{title} is empty for now. Give it a moment.",
+    "{title} is empty for now, and rather enjoying the peace."
+  ],
+  "tabs.move.blocked": [
+    "{title} cannot move from there.",
+    "{title} cannot move from there.",
+    "{title} cannot move from there.",
+    "{title} will not budge from there.",
+    "{title} will not budge from there, and it has its reasons."
+  ],
+  "surprise.panel.hint": [
+    "Every piece is drawn from code. Nothing is downloaded.",
+    "Every piece is drawn from code. Nothing is downloaded.",
+    "Every piece is drawn from code — nothing here was downloaded.",
+    "Every piece is drawn from code. Nothing here was downloaded, or ever will be.",
+    "Every piece is drawn from code, by hand. Nothing here was downloaded, or ever will be, not even the tea."
+  ]
+}

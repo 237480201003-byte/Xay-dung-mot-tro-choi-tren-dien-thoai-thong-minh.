@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The product name. Never translated, never restyled by the funny level. -->
+    <string name="app_name">Sprout Hollow</string>
+    <string name="title_activity_main">Sprout Hollow</string>
+    <string name="package_name">uk.dewhui.sprouthollow</string>
+    <string name="custom_url_scheme">uk.dewhui.sprouthollow</string>
+</resources>

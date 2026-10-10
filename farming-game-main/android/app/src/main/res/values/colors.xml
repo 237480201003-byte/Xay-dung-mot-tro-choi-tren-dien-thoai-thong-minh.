@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PAL.ink from DESIGN.md section 3. -->
+    <color name="ink">#1B1A24</color>
+    <color name="splashBackground">#1B1A24</color>
+    <color name="colorPrimary">#1B1A24</color>
+    <color name="colorPrimaryDark">#0F0E16</color>
+    <color name="colorAccent">#F2A541</color>
+</resources>

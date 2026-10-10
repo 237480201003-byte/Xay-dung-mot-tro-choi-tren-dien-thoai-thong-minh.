@@ -1,0 +1,27 @@
+{
+  "name": "sprout-hollow-android",
+  "version": "1.4.3",
+  "private": true,
+  "description": "Android shell for the Sprout Hollow web build (Capacitor).",
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android",
+    "run": "cap run android",
+    "build:apk": "cap sync android && cd android && gradlew assembleDebug",
+    "build:aab": "cap sync android && cd android && gradlew bundleRelease",
+    "clean": "cap sync android --no-build"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/preferences": "^6.0.2",
+    "@capacitor/splash-screen": "^6.0.2",
+    "@capacitor/status-bar": "^6.0.2",
+    "@capacitor/haptics": "^6.0.2",
+    "@capacitor/keyboard": "^6.0.2",
+    "@capacitor/app": "^6.0.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}

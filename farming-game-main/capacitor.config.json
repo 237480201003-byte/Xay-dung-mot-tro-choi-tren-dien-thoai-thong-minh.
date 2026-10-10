@@ -1,0 +1,31 @@
+{
+  "appId": "uk.dewhui.sprouthollow",
+  "appName": "Sprout Hollow",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true,
+    "backgroundColor": "#1b1a24ff"
+  },
+  "plugins": {
+    "Preferences": {
+      "saveKey": "sprout-hollow.save",
+      "mutedKey": "sprout-hollow.muted"
+    },
+    "SplashScreen": {
+      "launchShowDuration": 0,
+      "launchAutoHide": true,
+      "backgroundColor": "#1b1a24ff",
+      "splashFullScreen": true,
+      "splashImmersive": true
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#00000000"
+    }
+  }
+}

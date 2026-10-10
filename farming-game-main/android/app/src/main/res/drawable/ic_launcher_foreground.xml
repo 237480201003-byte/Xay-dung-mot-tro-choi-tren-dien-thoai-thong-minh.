@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A stylised sprout in the lantern colour. Generated to be a placeholder
+         until `npm run icon` produces the real launcher icon. The vector is
+         intentionally tiny: anything the runtime keeps in this slot is only
+         seen for the splash-screen beat, and the bitmap is what ships. -->
+    <group android:scaleX="2.0"
+        android:scaleY="2.0"
+        android:translateX="27"
+        android:translateY="27">
+        <path
+            android:fillColor="#F2A541"
+            android:pathData="M12,2 C8,2 4,5 4,9 C4,11 5,12 6,13 L6,21 L8,21 L8,17 L16,17 L16,21 L18,21 L18,13 C19,12 20,11 20,9 C20,5 16,2 12,2 Z" />
+        <path
+            android:fillColor="#6D9C46"
+            android:pathData="M12,2 C10,4 8,7 8,11 L12,11 L12,2 Z" />
+        <path
+            android:fillColor="#6D9C46"
+            android:pathData="M12,2 C14,4 16,7 16,11 L12,11 L12,2 Z" />
+    </group>
+</vector>
